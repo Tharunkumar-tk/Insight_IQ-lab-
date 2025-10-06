@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>InSightIQ</title>
+  <link rel="stylesheet" href="/css/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="dark">
+  <div id="app">
+    <nav class="navbar">
+      <div class="nav-left" onclick="App.navigate('dashboard')">
+        <span class="logo">InSightIQ</span>
+      </div>
+      <div class="nav-center">
+        <a href="#" data-page="dashboard" class="nav-link active">Dashboard</a>
+        <a href="#" data-page="domains" class="nav-link">Domains</a>
+        <a href="#" data-page="market" class="nav-link">Market</a>
+        <a href="#" data-page="social" class="nav-link">Social</a>
+        <a href="#" data-page="news" class="nav-link">News</a>
+        <a href="#" data-page="settings" class="nav-link">Settings</a>
+      </div>
+      <div class="nav-right">
+        <button id="themeToggle" title="Toggle theme">🌓</button>
+      </div>
+    </nav>
+
+    <main id="content" class="container">
+      <!-- Dashboard content injected here -->
+    </main>
+  </div>
+
+  <!-- Initial Domain Modal -->
+  <div id="domainModal" class="modal hidden">
+    <div class="modal-card">
+      <h2>Choose a Strategic Domain</h2>
+      <div id="domainGrid" class="grid"></div>
+      <button class="close-btn" onclick="App.closeModal()">Close</button>
+    </div>
+  </div>
+
+  <!-- Competitor Insights Modal -->
+  <div id="insightModal" class="modal hidden">
+    <div class="modal-card large">
+      <div class="modal-header">
+        <div class="kpis">
+          <img id="insightLogo" src="/assets/default-logo.png" alt="logo" />
+          <div>
+            <h3 id="insightTitle">Insights</h3>
+            <div id="insightKPIs" class="kpi-row"></div>
+          </div>
+        </div>
+        <button class="close-btn" onclick="App.closeInsightModal()">✕</button>
+      </div>
+      <div class="tabs">
+        <button data-tab="ai" class="tab active">AI Insights</button>
+        <button data-tab="forecast" class="tab">Forecast</button>
+        <button data-tab="news" class="tab">News</button>
+        <button data-tab="social" class="tab">Social</button>
+      </div>
+      <div class="tab-content">
+        <section id="tab-ai" class="tab-pane active"><pre id="aiInsights"></pre></section>
+        <section id="tab-forecast" class="tab-pane"><canvas id="forecastChart" height="120"></canvas></section>
+        <section id="tab-news" class="tab-pane"><ul id="newsList"></ul></section>
+        <section id="tab-social" class="tab-pane"><ul id="socialList"></ul></section>
+      </div>
+      <div class="modal-footer">
+        <button id="exportInsights">Export Insights</button>
+        <button id="createAlert">Create Alert</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>

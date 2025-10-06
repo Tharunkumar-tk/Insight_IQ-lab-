@@ -1,0 +1,101 @@
+date,headline,source,sentiment,sentiment_score,link
+2025-10-03,Ørsted notes in green energy market,The Verge,neutral,-0.164,https://example.com/green-energy/ørsted/63768
+2025-09-24,Enphase Energy partners with in green energy market,Bloomberg,positive,0.916,https://example.com/green-energy/enphase-energy/96683
+2025-09-21,Ørsted states in green energy market,Ars Technica,neutral,0.112,https://example.com/green-energy/ørsted/94719
+2025-09-21,Siemens Energy misses in green energy market,Reuters,negative,-0.361,https://example.com/green-energy/siemens-energy/65978
+2025-09-20,Ørsted partners with in green energy market,The Verge,positive,0.496,https://example.com/green-energy/ørsted/18794
+2025-09-18,Ørsted faces probe in green energy market,CNBC,negative,-0.596,https://example.com/green-energy/ørsted/94581
+2025-09-16,Tesla Energy recalls in green energy market,Financial Times,negative,-0.995,https://example.com/green-energy/tesla-energy/92137
+2025-09-08,Tesla Energy cuts in green energy market,Engadget,negative,-0.668,https://example.com/green-energy/tesla-energy/65991
+2025-09-07,First Solar outperforms in green energy market,Bloomberg,positive,0.336,https://example.com/green-energy/first-solar/36629
+2025-08-20,First Solar warns in green energy market,Protocol,negative,-0.309,https://example.com/green-energy/first-solar/81402
+2025-07-25,Siemens Energy reports in green energy market,The Verge,neutral,-0.107,https://example.com/green-energy/siemens-energy/19023
+2025-06-30,Enphase Energy announces in green energy market,Forbes,positive,0.858,https://example.com/green-energy/enphase-energy/58541
+2025-06-23,Ørsted beats in green energy market,Ars Technica,positive,0.591,https://example.com/green-energy/ørsted/27955
+2025-06-12,Ørsted partners with in green energy market,TechCrunch,positive,0.683,https://example.com/green-energy/ørsted/18794
+2025-06-08,Tesla Energy states in green energy market,Wired,neutral,-0.173,https://example.com/green-energy/tesla-energy/81074
+2025-06-07,Tesla Energy states in green energy market,TechCrunch,neutral,-0.151,https://example.com/green-energy/tesla-energy/81074
+2025-06-03,Siemens Energy reveals in green energy market,Protocol,neutral,-0.070,https://example.com/green-energy/siemens-energy/75620
+2025-05-24,Ørsted downgrades in green energy market,TechCrunch,negative,-0.552,https://example.com/green-energy/ørsted/19306
+2025-05-23,Enphase Energy partners with in green energy market,CNBC,positive,0.964,https://example.com/green-energy/enphase-energy/96683
+2025-05-21,Siemens Energy partners with in green energy market,The Verge,positive,0.632,https://example.com/green-energy/siemens-energy/94071
+2025-05-20,First Solar reveals in green energy market,Financial Times,neutral,0.026,https://example.com/green-energy/first-solar/63492
+2025-05-17,Ørsted expands in green energy market,TechCrunch,positive,0.527,https://example.com/green-energy/ørsted/43686
+2025-05-11,Enphase Energy files in green energy market,Wall Street Journal,neutral,0.023,https://example.com/green-energy/enphase-energy/35881
+2025-04-25,Ørsted launches in green energy market,Wired,neutral,0.105,https://example.com/green-energy/ørsted/49467
+2025-04-18,First Solar outperforms in green energy market,VentureBeat,positive,0.481,https://example.com/green-energy/first-solar/36629
+2025-04-11,First Solar wins in green energy market,Wall Street Journal,positive,0.328,https://example.com/green-energy/first-solar/65485
+2025-03-26,First Solar reveals in green energy market,Reuters,neutral,-0.087,https://example.com/green-energy/first-solar/63492
+2025-03-16,Siemens Energy announces in green energy market,Reuters,positive,0.399,https://example.com/green-energy/siemens-energy/59355
+2025-03-10,Tesla Energy partners with in green energy market,Engadget,positive,0.616,https://example.com/green-energy/tesla-energy/90402
+2025-03-03,Enphase Energy accelerates in green energy market,Wired,positive,0.587,https://example.com/green-energy/enphase-energy/37264
+2025-02-25,Enphase Energy outperforms in green energy market,Ars Technica,positive,0.717,https://example.com/green-energy/enphase-energy/76923
+2025-02-22,First Solar falls in green energy market,Engadget,negative,-0.487,https://example.com/green-energy/first-solar/11783
+2025-02-20,Tesla Energy announces in green energy market,Protocol,positive,0.824,https://example.com/green-energy/tesla-energy/21870
+2025-02-18,First Solar launches in green energy market,The Verge,neutral,0.050,https://example.com/green-energy/first-solar/90305
+2025-02-18,Ørsted files in green energy market,Wired,neutral,0.147,https://example.com/green-energy/ørsted/74137
+2025-02-16,Tesla Energy warns in green energy market,Ars Technica,negative,-0.518,https://example.com/green-energy/tesla-energy/34858
+2025-02-08,Siemens Energy cuts in green energy market,Reuters,negative,-0.963,https://example.com/green-energy/siemens-energy/92818
+2025-02-04,Siemens Energy reports in green energy market,Forbes,neutral,-0.006,https://example.com/green-energy/siemens-energy/19023
+2025-01-26,Ørsted mentions in green energy market,Reuters,neutral,-0.087,https://example.com/green-energy/ørsted/98105
+2025-01-22,Enphase Energy downgrades in green energy market,TechCrunch,negative,-0.860,https://example.com/green-energy/enphase-energy/83003
+2025-01-16,Enphase Energy files in green energy market,Ars Technica,neutral,-0.151,https://example.com/green-energy/enphase-energy/35881
+2025-01-13,Tesla Energy reveals in green energy market,Ars Technica,neutral,0.185,https://example.com/green-energy/tesla-energy/46118
+2025-01-11,Ørsted introduces in green energy market,Wired,neutral,-0.151,https://example.com/green-energy/ørsted/51499
+2025-01-08,Ørsted recalls in green energy market,Forbes,negative,-0.548,https://example.com/green-energy/ørsted/66495
+2025-01-05,Ørsted wins in green energy market,Engadget,positive,0.977,https://example.com/green-energy/ørsted/92118
+2025-01-05,Siemens Energy downgrades in green energy market,Forbes,negative,-0.619,https://example.com/green-energy/siemens-energy/48176
+2024-12-27,First Solar beats in green energy market,VentureBeat,positive,0.732,https://example.com/green-energy/first-solar/56600
+2024-12-22,Ørsted introduces in green energy market,Ars Technica,neutral,-0.143,https://example.com/green-energy/ørsted/51499
+2024-12-10,First Solar beats in green energy market,Financial Times,positive,0.639,https://example.com/green-energy/first-solar/56600
+2024-12-10,Enphase Energy states in green energy market,Forbes,neutral,-0.090,https://example.com/green-energy/enphase-energy/10452
+2024-12-03,First Solar suffers in green energy market,Reuters,negative,-0.921,https://example.com/green-energy/first-solar/29401
+2024-11-22,Ørsted states in green energy market,Financial Times,neutral,-0.008,https://example.com/green-energy/ørsted/94719
+2024-11-19,Enphase Energy notes in green energy market,The Information,neutral,-0.079,https://example.com/green-energy/enphase-energy/45714
+2024-11-16,Siemens Energy notes in green energy market,Engadget,neutral,0.193,https://example.com/green-energy/siemens-energy/85475
+2024-11-12,Siemens Energy beats in green energy market,Bloomberg,positive,0.925,https://example.com/green-energy/siemens-energy/25621
+2024-11-09,Enphase Energy mentions in green energy market,VentureBeat,neutral,0.110,https://example.com/green-energy/enphase-energy/22143
+2024-11-07,Siemens Energy reveals in green energy market,TechCrunch,neutral,0.184,https://example.com/green-energy/siemens-energy/75620
+2024-10-29,Enphase Energy downgrades in green energy market,Reuters,negative,-0.423,https://example.com/green-energy/enphase-energy/83003
+2024-10-19,Tesla Energy announces in green energy market,Wall Street Journal,positive,0.651,https://example.com/green-energy/tesla-energy/21870
+2024-10-16,Enphase Energy introduces in green energy market,The Verge,neutral,-0.005,https://example.com/green-energy/enphase-energy/95707
+2024-10-10,Siemens Energy partners with in green energy market,Forbes,positive,0.958,https://example.com/green-energy/siemens-energy/94071
+2024-10-06,Enphase Energy notes in green energy market,Wired,neutral,0.091,https://example.com/green-energy/enphase-energy/45714
+2024-09-30,Tesla Energy reports in green energy market,The Verge,neutral,0.177,https://example.com/green-energy/tesla-energy/66854
+2024-09-26,Siemens Energy downgrades in green energy market,Bloomberg,negative,-0.808,https://example.com/green-energy/siemens-energy/48176
+2024-09-22,Tesla Energy partners with in green energy market,Financial Times,positive,0.262,https://example.com/green-energy/tesla-energy/90402
+2024-09-17,Ørsted states in green energy market,The Information,neutral,-0.131,https://example.com/green-energy/ørsted/94719
+2024-09-09,Enphase Energy faces probe in green energy market,Ars Technica,negative,-0.633,https://example.com/green-energy/enphase-energy/78027
+2024-09-05,Ørsted misses in green energy market,The Information,negative,-0.802,https://example.com/green-energy/ørsted/71737
+2024-08-23,Tesla Energy expands in green energy market,Bloomberg,positive,0.727,https://example.com/green-energy/tesla-energy/80534
+2024-08-18,Tesla Energy tops in green energy market,Ars Technica,positive,0.414,https://example.com/green-energy/tesla-energy/42182
+2024-08-18,Siemens Energy expands in green energy market,The Information,positive,0.931,https://example.com/green-energy/siemens-energy/42480
+2024-08-17,Ørsted mentions in green energy market,Ars Technica,neutral,-0.035,https://example.com/green-energy/ørsted/98105
+2024-08-15,Tesla Energy updates in green energy market,Reuters,neutral,-0.034,https://example.com/green-energy/tesla-energy/7070
+2024-08-13,Siemens Energy reports in green energy market,The Verge,neutral,-0.153,https://example.com/green-energy/siemens-energy/19023
+2024-08-10,Tesla Energy recalls in green energy market,Financial Times,negative,-0.363,https://example.com/green-energy/tesla-energy/92137
+2024-08-09,Ørsted states in green energy market,TechCrunch,neutral,-0.138,https://example.com/green-energy/ørsted/94719
+2024-08-03,Siemens Energy states in green energy market,Financial Times,neutral,-0.064,https://example.com/green-energy/siemens-energy/90847
+2024-08-03,Enphase Energy launches in green energy market,Financial Times,neutral,0.196,https://example.com/green-energy/enphase-energy/30239
+2024-08-02,Tesla Energy reports in green energy market,Wired,neutral,0.180,https://example.com/green-energy/tesla-energy/66854
+2024-08-02,Siemens Energy downgrades in green energy market,CNBC,negative,-0.883,https://example.com/green-energy/siemens-energy/48176
+2024-07-18,Tesla Energy announces in green energy market,Reuters,positive,0.677,https://example.com/green-energy/tesla-energy/21870
+2024-07-18,Siemens Energy launches in green energy market,Engadget,neutral,0.183,https://example.com/green-energy/siemens-energy/91153
+2024-07-12,Tesla Energy beats in green energy market,Forbes,positive,0.414,https://example.com/green-energy/tesla-energy/32816
+2024-07-11,Tesla Energy wins in green energy market,Wired,positive,0.980,https://example.com/green-energy/tesla-energy/85330
+2024-06-30,Enphase Energy announces in green energy market,Wired,positive,0.361,https://example.com/green-energy/enphase-energy/58541
+2024-06-21,Tesla Energy reveals in green energy market,Wired,neutral,0.032,https://example.com/green-energy/tesla-energy/46118
+2024-06-21,Enphase Energy notes in green energy market,TechCrunch,neutral,-0.067,https://example.com/green-energy/enphase-energy/45714
+2024-06-14,Tesla Energy files in green energy market,Ars Technica,neutral,-0.144,https://example.com/green-energy/tesla-energy/33041
+2024-06-14,Ørsted tops in green energy market,CNBC,positive,0.577,https://example.com/green-energy/ørsted/67115
+2024-06-08,Siemens Energy partners with in green energy market,Bloomberg,positive,0.926,https://example.com/green-energy/siemens-energy/94071
+2024-05-31,First Solar updates in green energy market,Bloomberg,neutral,0.109,https://example.com/green-energy/first-solar/36305
+2024-05-24,Tesla Energy recalls in green energy market,The Verge,negative,-0.305,https://example.com/green-energy/tesla-energy/92137
+2024-05-22,Enphase Energy outperforms in green energy market,Wired,positive,0.456,https://example.com/green-energy/enphase-energy/76923
+2024-05-10,Tesla Energy reveals in green energy market,Financial Times,neutral,0.033,https://example.com/green-energy/tesla-energy/46118
+2024-05-08,Enphase Energy mentions in green energy market,The Verge,neutral,0.051,https://example.com/green-energy/enphase-energy/22143
+2024-05-07,Siemens Energy suffers in green energy market,Bloomberg,negative,-0.836,https://example.com/green-energy/siemens-energy/80656
+2024-04-30,First Solar notes in green energy market,Protocol,neutral,-0.122,https://example.com/green-energy/first-solar/12802
+2024-04-28,Ørsted files in green energy market,Bloomberg,neutral,0.009,https://example.com/green-energy/ørsted/74137
+2024-04-24,Siemens Energy states in green energy market,Engadget,neutral,0.052,https://example.com/green-energy/siemens-energy/90847
+2024-04-24,Enphase Energy misses in green energy market,Engadget,negative,-0.883,https://example.com/green-energy/enphase-energy/12786

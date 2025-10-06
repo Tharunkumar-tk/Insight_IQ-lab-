@@ -1,0 +1,60 @@
+InSightIQ integration report
+
+Created/Modified files:
+- backend/.env.example
+- backend/app.py (FastAPI app with endpoints and CORS)
+- backend/notebook_integration.py
+- backend/utils/__init__.py
+- backend/utils/fetchers.py
+- backend/utils/sentiment.py
+- backend/utils/forecast.py
+- backend/utils/llm_client.py
+- backend/scripts/generate_csvs.py
+- backend/data/README.md
+- backend/logs/ (directory)
+- frontend/index.html
+- frontend/css/style.css
+- frontend/js/app.js
+- frontend/assets/create_default_logo.py
+- backend/requirements.txt
+- requirements.txt
+- setup.sh
+- setup.bat
+- backend/NOTEBOOK_ANALYSIS.md
+
+Endpoints added:
+- GET /api/health
+- GET /api/domains
+- GET /api/competitors?domain=<slug>
+- GET /api/news?company=<name>&domain=<slug>&limit=20
+- GET /api/social?company=<name>&domain=<slug>&limit=20
+- GET /api/csv-sample?domain=<slug>
+- GET /api/forecast?company=<name>&days=30
+- GET /api/insights?company=<name>&domain=<slug>
+- POST /api/webhook/alerts
+- POST /api/regenerate-csvs
+
+Fallback & robustness:
+- All external calls retry with exponential backoff; 429 handled by backing off.
+- On any API failure/empty, endpoints fall back to backend/data/<domain>.csv with sentiment fields.
+- Prophet wrapper degrades to naive flat projection if Prophet missing.
+
+Assets/Logos:
+- Default logo will be created by running frontend/assets/create_default_logo.py during setup.
+- Expected competitor logos path: backend/logos/<domain-slug>/<competitor>.png
+- Setup scripts print any missing logos after start.
+
+.ENV handling:
+- If backend/.env exists, keys are read directly; no keys are written to repo.
+- If missing, setup copies backend/.env.example to backend/.env.
+
+Commands executed by setup scripts (when run):
+- python -m venv .venv
+- pip install -r backend/requirements.txt
+- python frontend/assets/create_default_logo.py
+- python backend/scripts/generate_csvs.py
+- python backend/app.py (backend server on :8000)
+- python -m http.server 3000 -d frontend (static server on :3000)
+
+Notes:
+- Python was not detected in PATH during agent run; generation will occur when you run setup.bat or setup.sh locally where Python is available.

@@ -1,0 +1,12 @@
+fastapi>=0.110,<0.115
+uvicorn>=0.24,<0.32
+python-dotenv>=1.0,<2.0
+pandas>=1.5,<2.2
+numpy>=1.24,<2.0
+requests>=2.31,<3.0
+matplotlib>=3.8,<3.9
+nltk>=3.8,<4.0
+openai>=0.28,<1.0
+# Prophet can be tricky to build on Windows; this is the modern package name
+prophet>=1.1
+# If prophet fails to build, try installing pystan==2.19.1.1 then prophet

@@ -1,0 +1,101 @@
+date,headline,source,sentiment,sentiment_score,link
+2025-09-25,NVIDIA files in semiconductors market,Engadget,neutral,0.191,https://example.com/semiconductors/nvidia/65063
+2025-09-25,NVIDIA states in semiconductors market,Wired,neutral,0.194,https://example.com/semiconductors/nvidia/77804
+2025-09-23,TSMC outperforms in semiconductors market,Protocol,positive,0.647,https://example.com/semiconductors/tsmc/99241
+2025-09-20,Qualcomm cuts in semiconductors market,Wall Street Journal,negative,-0.624,https://example.com/semiconductors/qualcomm/12787
+2025-09-17,NVIDIA partners with in semiconductors market,Bloomberg,positive,0.291,https://example.com/semiconductors/nvidia/68326
+2025-09-17,Intel reports in semiconductors market,The Verge,neutral,0.132,https://example.com/semiconductors/intel/96525
+2025-09-03,Intel updates in semiconductors market,Reuters,neutral,-0.065,https://example.com/semiconductors/intel/53248
+2025-08-25,NVIDIA introduces in semiconductors market,TechCrunch,neutral,0.101,https://example.com/semiconductors/nvidia/18015
+2025-08-23,AMD reveals in semiconductors market,Ars Technica,neutral,0.147,https://example.com/semiconductors/amd/89795
+2025-08-18,TSMC mentions in semiconductors market,VentureBeat,neutral,0.107,https://example.com/semiconductors/tsmc/6588
+2025-08-13,NVIDIA notes in semiconductors market,Ars Technica,neutral,-0.084,https://example.com/semiconductors/nvidia/36433
+2025-07-22,TSMC updates in semiconductors market,CNBC,neutral,-0.139,https://example.com/semiconductors/tsmc/18718
+2025-07-20,NVIDIA cuts in semiconductors market,Forbes,negative,-0.941,https://example.com/semiconductors/nvidia/1262
+2025-07-17,Qualcomm outperforms in semiconductors market,Wired,positive,0.405,https://example.com/semiconductors/qualcomm/17274
+2025-07-15,TSMC surges in semiconductors market,The Information,positive,0.420,https://example.com/semiconductors/tsmc/29001
+2025-07-12,AMD updates in semiconductors market,Engadget,neutral,-0.124,https://example.com/semiconductors/amd/70248
+2025-07-02,NVIDIA reveals in semiconductors market,The Information,neutral,0.058,https://example.com/semiconductors/nvidia/78811
+2025-06-30,Intel reports in semiconductors market,The Verge,neutral,-0.069,https://example.com/semiconductors/intel/96525
+2025-06-20,Intel downgrades in semiconductors market,VentureBeat,negative,-0.773,https://example.com/semiconductors/intel/35603
+2025-06-17,Intel wins in semiconductors market,VentureBeat,positive,0.459,https://example.com/semiconductors/intel/77983
+2025-06-11,Qualcomm updates in semiconductors market,Wall Street Journal,neutral,-0.069,https://example.com/semiconductors/qualcomm/3356
+2025-06-08,NVIDIA launches in semiconductors market,Ars Technica,neutral,-0.185,https://example.com/semiconductors/nvidia/50247
+2025-06-07,NVIDIA partners with in semiconductors market,CNBC,positive,0.914,https://example.com/semiconductors/nvidia/68326
+2025-05-28,Qualcomm delays in semiconductors market,The Information,negative,-0.839,https://example.com/semiconductors/qualcomm/50515
+2025-05-22,Intel files in semiconductors market,VentureBeat,neutral,-0.129,https://example.com/semiconductors/intel/78830
+2025-05-20,TSMC wins in semiconductors market,Wall Street Journal,positive,0.882,https://example.com/semiconductors/tsmc/71107
+2025-05-14,TSMC cuts in semiconductors market,VentureBeat,negative,-0.382,https://example.com/semiconductors/tsmc/41639
+2025-05-07,AMD introduces in semiconductors market,The Information,neutral,0.020,https://example.com/semiconductors/amd/19535
+2025-05-07,NVIDIA launches in semiconductors market,Reuters,neutral,0.174,https://example.com/semiconductors/nvidia/50247
+2025-04-26,TSMC beats in semiconductors market,Wall Street Journal,positive,0.216,https://example.com/semiconductors/tsmc/33131
+2025-04-21,AMD warns in semiconductors market,Financial Times,negative,-0.834,https://example.com/semiconductors/amd/53219
+2025-04-16,Intel partners with in semiconductors market,VentureBeat,positive,0.811,https://example.com/semiconductors/intel/46656
+2025-04-13,NVIDIA reveals in semiconductors market,The Information,neutral,-0.045,https://example.com/semiconductors/nvidia/78811
+2025-04-09,TSMC announces in semiconductors market,Engadget,positive,0.620,https://example.com/semiconductors/tsmc/76023
+2025-03-31,AMD wins in semiconductors market,Forbes,positive,0.744,https://example.com/semiconductors/amd/62818
+2025-03-21,TSMC announces in semiconductors market,Engadget,positive,0.239,https://example.com/semiconductors/tsmc/76023
+2025-03-17,Intel launches in semiconductors market,Wall Street Journal,neutral,-0.170,https://example.com/semiconductors/intel/73441
+2025-03-16,AMD recalls in semiconductors market,Wired,negative,-0.869,https://example.com/semiconductors/amd/90892
+2025-03-03,TSMC tops in semiconductors market,Bloomberg,positive,0.912,https://example.com/semiconductors/tsmc/42666
+2025-03-01,Intel expands in semiconductors market,The Information,positive,0.966,https://example.com/semiconductors/intel/86893
+2025-02-26,AMD wins in semiconductors market,The Verge,positive,0.227,https://example.com/semiconductors/amd/62818
+2025-02-24,AMD accelerates in semiconductors market,VentureBeat,positive,0.401,https://example.com/semiconductors/amd/40021
+2025-02-21,Intel outperforms in semiconductors market,Reuters,positive,0.469,https://example.com/semiconductors/intel/73707
+2025-02-20,AMD faces probe in semiconductors market,Forbes,negative,-0.750,https://example.com/semiconductors/amd/24772
+2025-02-13,NVIDIA launches in semiconductors market,Forbes,neutral,0.173,https://example.com/semiconductors/nvidia/50247
+2025-02-09,TSMC mentions in semiconductors market,Forbes,neutral,-0.039,https://example.com/semiconductors/tsmc/6588
+2025-02-04,AMD partners with in semiconductors market,TechCrunch,positive,0.439,https://example.com/semiconductors/amd/62077
+2025-01-30,Intel beats in semiconductors market,Reuters,positive,0.349,https://example.com/semiconductors/intel/8245
+2025-01-30,Intel introduces in semiconductors market,CNBC,neutral,-0.161,https://example.com/semiconductors/intel/70202
+2025-01-26,TSMC updates in semiconductors market,Financial Times,neutral,-0.067,https://example.com/semiconductors/tsmc/18718
+2025-01-22,AMD updates in semiconductors market,Bloomberg,neutral,0.079,https://example.com/semiconductors/amd/70248
+2025-01-22,AMD outperforms in semiconductors market,Ars Technica,positive,0.748,https://example.com/semiconductors/amd/5288
+2025-01-20,Qualcomm updates in semiconductors market,Ars Technica,neutral,-0.016,https://example.com/semiconductors/qualcomm/3356
+2025-01-18,Intel tops in semiconductors market,TechCrunch,positive,0.754,https://example.com/semiconductors/intel/93608
+2025-01-08,AMD accelerates in semiconductors market,Engadget,positive,0.783,https://example.com/semiconductors/amd/40021
+2025-01-07,TSMC reports in semiconductors market,Wired,neutral,-0.084,https://example.com/semiconductors/tsmc/46155
+2025-01-07,TSMC expands in semiconductors market,TechCrunch,positive,0.576,https://example.com/semiconductors/tsmc/75302
+2025-01-06,TSMC falls in semiconductors market,The Verge,negative,-0.539,https://example.com/semiconductors/tsmc/77590
+2024-12-21,TSMC announces in semiconductors market,Engadget,positive,0.232,https://example.com/semiconductors/tsmc/76023
+2024-12-04,TSMC cuts in semiconductors market,The Verge,negative,-0.766,https://example.com/semiconductors/tsmc/41639
+2024-11-19,AMD notes in semiconductors market,Forbes,neutral,0.189,https://example.com/semiconductors/amd/32588
+2024-11-15,Intel reports in semiconductors market,Ars Technica,neutral,-0.149,https://example.com/semiconductors/intel/96525
+2024-11-12,Qualcomm outperforms in semiconductors market,Reuters,positive,0.694,https://example.com/semiconductors/qualcomm/17274
+2024-11-01,Intel announces in semiconductors market,Ars Technica,positive,0.418,https://example.com/semiconductors/intel/67990
+2024-10-28,Intel delays in semiconductors market,Financial Times,negative,-0.355,https://example.com/semiconductors/intel/24713
+2024-10-23,AMD accelerates in semiconductors market,Reuters,positive,0.757,https://example.com/semiconductors/amd/40021
+2024-10-22,TSMC misses in semiconductors market,CNBC,negative,-0.974,https://example.com/semiconductors/tsmc/47147
+2024-10-19,Qualcomm reports in semiconductors market,CNBC,neutral,0.124,https://example.com/semiconductors/qualcomm/60177
+2024-10-11,Qualcomm files in semiconductors market,Bloomberg,neutral,0.152,https://example.com/semiconductors/qualcomm/30690
+2024-10-06,AMD updates in semiconductors market,Reuters,neutral,-0.106,https://example.com/semiconductors/amd/70248
+2024-10-04,Qualcomm reports in semiconductors market,Protocol,neutral,-0.060,https://example.com/semiconductors/qualcomm/60177
+2024-10-02,Qualcomm downgrades in semiconductors market,Financial Times,negative,-0.878,https://example.com/semiconductors/qualcomm/1918
+2024-09-26,TSMC mentions in semiconductors market,Wall Street Journal,neutral,-0.049,https://example.com/semiconductors/tsmc/6588
+2024-09-25,NVIDIA reports in semiconductors market,Reuters,neutral,0.052,https://example.com/semiconductors/nvidia/19884
+2024-09-24,TSMC recalls in semiconductors market,Protocol,negative,-0.979,https://example.com/semiconductors/tsmc/53936
+2024-09-22,TSMC wins in semiconductors market,The Verge,positive,0.278,https://example.com/semiconductors/tsmc/71107
+2024-09-16,Qualcomm tops in semiconductors market,Ars Technica,positive,0.216,https://example.com/semiconductors/qualcomm/73049
+2024-09-03,AMD updates in semiconductors market,Ars Technica,neutral,-0.163,https://example.com/semiconductors/amd/70248
+2024-09-02,Qualcomm states in semiconductors market,Wall Street Journal,neutral,-0.152,https://example.com/semiconductors/qualcomm/14125
+2024-08-27,AMD delays in semiconductors market,Wall Street Journal,negative,-0.621,https://example.com/semiconductors/amd/46250
+2024-08-27,NVIDIA states in semiconductors market,CNBC,neutral,0.134,https://example.com/semiconductors/nvidia/77804
+2024-08-26,NVIDIA outperforms in semiconductors market,Financial Times,positive,0.627,https://example.com/semiconductors/nvidia/98485
+2024-08-18,AMD files in semiconductors market,Protocol,neutral,0.028,https://example.com/semiconductors/amd/49024
+2024-08-05,Qualcomm launches in semiconductors market,The Verge,neutral,0.149,https://example.com/semiconductors/qualcomm/70558
+2024-07-25,AMD warns in semiconductors market,The Verge,negative,-0.503,https://example.com/semiconductors/amd/53219
+2024-07-24,NVIDIA mentions in semiconductors market,Wired,neutral,-0.196,https://example.com/semiconductors/nvidia/96403
+2024-07-23,Qualcomm notes in semiconductors market,CNBC,neutral,-0.129,https://example.com/semiconductors/qualcomm/90623
+2024-07-17,NVIDIA mentions in semiconductors market,VentureBeat,neutral,0.041,https://example.com/semiconductors/nvidia/96403
+2024-07-13,AMD tops in semiconductors market,The Information,positive,0.687,https://example.com/semiconductors/amd/42536
+2024-06-25,NVIDIA launches in semiconductors market,Forbes,neutral,0.097,https://example.com/semiconductors/nvidia/50247
+2024-06-15,NVIDIA surges in semiconductors market,TechCrunch,positive,0.425,https://example.com/semiconductors/nvidia/84543
+2024-06-13,NVIDIA updates in semiconductors market,CNBC,neutral,-0.119,https://example.com/semiconductors/nvidia/32297
+2024-06-12,NVIDIA expands in semiconductors market,Bloomberg,positive,0.400,https://example.com/semiconductors/nvidia/11434
+2024-05-31,Intel tops in semiconductors market,Wall Street Journal,positive,0.669,https://example.com/semiconductors/intel/93608
+2024-05-29,AMD notes in semiconductors market,Protocol,neutral,0.046,https://example.com/semiconductors/amd/32588
+2024-05-29,AMD notes in semiconductors market,Wall Street Journal,neutral,-0.064,https://example.com/semiconductors/amd/32588
+2024-05-26,AMD reveals in semiconductors market,The Verge,neutral,-0.035,https://example.com/semiconductors/amd/89795
+2024-05-23,Intel tops in semiconductors market,Reuters,positive,0.296,https://example.com/semiconductors/intel/93608
+2024-04-15,AMD recalls in semiconductors market,Forbes,negative,-0.543,https://example.com/semiconductors/amd/90892
+2024-04-15,TSMC wins in semiconductors market,Bloomberg,positive,0.690,https://example.com/semiconductors/tsmc/71107

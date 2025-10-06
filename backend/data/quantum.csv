@@ -1,0 +1,101 @@
+date,headline,source,sentiment,sentiment_score,link
+2025-09-21,IonQ notes in quantum market,The Verge,neutral,0.197,https://example.com/quantum/ionq/90461
+2025-08-24,Xanadu warns in quantum market,Forbes,negative,-0.652,https://example.com/quantum/xanadu/14024
+2025-08-17,IBM Quantum notes in quantum market,Ars Technica,neutral,0.164,https://example.com/quantum/ibm-quantum/34122
+2025-08-16,Rigetti downgrades in quantum market,TechCrunch,negative,-0.944,https://example.com/quantum/rigetti/55105
+2025-08-15,Rigetti announces in quantum market,The Verge,positive,0.835,https://example.com/quantum/rigetti/84236
+2025-08-12,IBM Quantum announces in quantum market,Forbes,positive,0.414,https://example.com/quantum/ibm-quantum/71569
+2025-08-03,D-Wave Systems reports in quantum market,CNBC,neutral,0.044,https://example.com/quantum/d-wave-systems/42142
+2025-07-31,IBM Quantum misses in quantum market,TechCrunch,negative,-0.707,https://example.com/quantum/ibm-quantum/52474
+2025-07-28,IBM Quantum launches in quantum market,Reuters,neutral,-0.187,https://example.com/quantum/ibm-quantum/19156
+2025-07-26,Rigetti updates in quantum market,VentureBeat,neutral,-0.020,https://example.com/quantum/rigetti/32171
+2025-07-15,IonQ accelerates in quantum market,Engadget,positive,0.864,https://example.com/quantum/ionq/64584
+2025-07-14,Xanadu downgrades in quantum market,Engadget,negative,-0.370,https://example.com/quantum/xanadu/2083
+2025-07-10,IBM Quantum beats in quantum market,Wired,positive,0.576,https://example.com/quantum/ibm-quantum/55503
+2025-07-07,IBM Quantum reports in quantum market,VentureBeat,neutral,-0.146,https://example.com/quantum/ibm-quantum/48468
+2025-07-05,Xanadu reports in quantum market,CNBC,neutral,0.122,https://example.com/quantum/xanadu/36939
+2025-07-04,Xanadu faces probe in quantum market,Engadget,negative,-0.530,https://example.com/quantum/xanadu/91646
+2025-06-30,Xanadu surges in quantum market,Wired,positive,0.510,https://example.com/quantum/xanadu/62724
+2025-06-27,Xanadu files in quantum market,Ars Technica,neutral,-0.180,https://example.com/quantum/xanadu/24793
+2025-06-24,IBM Quantum reveals in quantum market,Financial Times,neutral,-0.122,https://example.com/quantum/ibm-quantum/20575
+2025-06-18,D-Wave Systems tops in quantum market,The Verge,positive,0.722,https://example.com/quantum/d-wave-systems/34966
+2025-06-06,Xanadu falls in quantum market,CNBC,negative,-0.945,https://example.com/quantum/xanadu/11252
+2025-06-03,IBM Quantum reveals in quantum market,Ars Technica,neutral,-0.092,https://example.com/quantum/ibm-quantum/20575
+2025-06-01,Rigetti accelerates in quantum market,TechCrunch,positive,0.942,https://example.com/quantum/rigetti/96670
+2025-05-25,IBM Quantum mentions in quantum market,Wall Street Journal,neutral,-0.017,https://example.com/quantum/ibm-quantum/37812
+2025-05-06,IonQ downgrades in quantum market,The Verge,negative,-0.778,https://example.com/quantum/ionq/94401
+2025-05-06,IonQ launches in quantum market,Protocol,neutral,-0.183,https://example.com/quantum/ionq/33431
+2025-05-02,IonQ states in quantum market,Reuters,neutral,-0.064,https://example.com/quantum/ionq/92933
+2025-04-25,IonQ accelerates in quantum market,Protocol,positive,0.400,https://example.com/quantum/ionq/64584
+2025-04-21,IonQ mentions in quantum market,Reuters,neutral,0.005,https://example.com/quantum/ionq/49883
+2025-04-20,IonQ states in quantum market,CNBC,neutral,0.056,https://example.com/quantum/ionq/92933
+2025-04-18,IBM Quantum suffers in quantum market,The Information,negative,-0.741,https://example.com/quantum/ibm-quantum/96480
+2025-04-13,D-Wave Systems recalls in quantum market,Ars Technica,negative,-0.498,https://example.com/quantum/d-wave-systems/53829
+2025-04-01,Xanadu tops in quantum market,VentureBeat,positive,0.399,https://example.com/quantum/xanadu/64168
+2025-03-30,IBM Quantum notes in quantum market,Bloomberg,neutral,-0.086,https://example.com/quantum/ibm-quantum/34122
+2025-03-26,D-Wave Systems warns in quantum market,Wired,negative,-0.675,https://example.com/quantum/d-wave-systems/79421
+2025-03-24,Xanadu outperforms in quantum market,CNBC,positive,0.322,https://example.com/quantum/xanadu/24237
+2025-03-04,IBM Quantum states in quantum market,Wall Street Journal,neutral,0.046,https://example.com/quantum/ibm-quantum/52036
+2025-03-03,IonQ recalls in quantum market,Wall Street Journal,negative,-0.518,https://example.com/quantum/ionq/16999
+2025-02-28,IonQ reports in quantum market,TechCrunch,neutral,0.192,https://example.com/quantum/ionq/47584
+2025-02-24,D-Wave Systems accelerates in quantum market,Ars Technica,positive,0.335,https://example.com/quantum/d-wave-systems/4581
+2025-02-23,Rigetti updates in quantum market,Engadget,neutral,-0.060,https://example.com/quantum/rigetti/32171
+2025-02-22,Xanadu expands in quantum market,Financial Times,positive,0.500,https://example.com/quantum/xanadu/81091
+2025-02-20,IonQ files in quantum market,Reuters,neutral,0.004,https://example.com/quantum/ionq/44029
+2025-02-18,IBM Quantum notes in quantum market,The Information,neutral,0.043,https://example.com/quantum/ibm-quantum/34122
+2025-02-18,Rigetti expands in quantum market,Protocol,positive,0.655,https://example.com/quantum/rigetti/85946
+2025-02-13,Xanadu tops in quantum market,VentureBeat,positive,0.484,https://example.com/quantum/xanadu/64168
+2025-02-12,D-Wave Systems tops in quantum market,Financial Times,positive,0.845,https://example.com/quantum/d-wave-systems/34966
+2025-02-08,IBM Quantum mentions in quantum market,Reuters,neutral,0.135,https://example.com/quantum/ibm-quantum/37812
+2025-02-08,IBM Quantum reveals in quantum market,Protocol,neutral,-0.028,https://example.com/quantum/ibm-quantum/20575
+2025-02-08,IBM Quantum surges in quantum market,CNBC,positive,0.886,https://example.com/quantum/ibm-quantum/13047
+2025-02-05,D-Wave Systems mentions in quantum market,Wired,neutral,0.022,https://example.com/quantum/d-wave-systems/96099
+2025-02-01,IBM Quantum wins in quantum market,The Verge,positive,0.929,https://example.com/quantum/ibm-quantum/40501
+2025-01-28,Xanadu misses in quantum market,Financial Times,negative,-0.727,https://example.com/quantum/xanadu/92491
+2025-01-23,Rigetti surges in quantum market,CNBC,positive,0.340,https://example.com/quantum/rigetti/65280
+2025-01-15,Xanadu outperforms in quantum market,The Verge,positive,0.223,https://example.com/quantum/xanadu/24237
+2025-01-14,D-Wave Systems faces probe in quantum market,Bloomberg,negative,-0.464,https://example.com/quantum/d-wave-systems/81070
+2024-12-18,Rigetti reveals in quantum market,TechCrunch,neutral,-0.114,https://example.com/quantum/rigetti/92452
+2024-12-14,Rigetti beats in quantum market,Bloomberg,positive,0.568,https://example.com/quantum/rigetti/40098
+2024-12-12,IBM Quantum reports in quantum market,Financial Times,neutral,0.095,https://example.com/quantum/ibm-quantum/48468
+2024-12-09,Rigetti updates in quantum market,Wired,neutral,0.131,https://example.com/quantum/rigetti/32171
+2024-12-07,D-Wave Systems notes in quantum market,The Verge,neutral,0.147,https://example.com/quantum/d-wave-systems/10378
+2024-11-25,IonQ mentions in quantum market,Bloomberg,neutral,0.185,https://example.com/quantum/ionq/49883
+2024-11-23,Xanadu misses in quantum market,Bloomberg,negative,-0.799,https://example.com/quantum/xanadu/92491
+2024-11-21,IonQ accelerates in quantum market,Financial Times,positive,0.242,https://example.com/quantum/ionq/64584
+2024-11-16,Xanadu wins in quantum market,Bloomberg,positive,0.607,https://example.com/quantum/xanadu/384
+2024-11-15,D-Wave Systems expands in quantum market,Forbes,positive,0.696,https://example.com/quantum/d-wave-systems/5535
+2024-11-11,IBM Quantum introduces in quantum market,VentureBeat,neutral,-0.017,https://example.com/quantum/ibm-quantum/3236
+2024-11-01,Xanadu partners with in quantum market,Financial Times,positive,0.718,https://example.com/quantum/xanadu/41211
+2024-10-11,Rigetti falls in quantum market,Financial Times,negative,-0.243,https://example.com/quantum/rigetti/68192
+2024-10-09,Xanadu launches in quantum market,Financial Times,neutral,-0.027,https://example.com/quantum/xanadu/58126
+2024-10-08,D-Wave Systems misses in quantum market,Wall Street Journal,negative,-0.694,https://example.com/quantum/d-wave-systems/16990
+2024-10-07,D-Wave Systems partners with in quantum market,Wall Street Journal,positive,0.478,https://example.com/quantum/d-wave-systems/74687
+2024-10-03,D-Wave Systems warns in quantum market,TechCrunch,negative,-0.708,https://example.com/quantum/d-wave-systems/79421
+2024-09-24,D-Wave Systems introduces in quantum market,Financial Times,neutral,0.156,https://example.com/quantum/d-wave-systems/188
+2024-09-23,D-Wave Systems reveals in quantum market,Reuters,neutral,0.028,https://example.com/quantum/d-wave-systems/55956
+2024-09-21,Rigetti warns in quantum market,The Verge,negative,-0.481,https://example.com/quantum/rigetti/27952
+2024-09-07,Xanadu updates in quantum market,Financial Times,neutral,0.012,https://example.com/quantum/xanadu/61264
+2024-09-07,IonQ wins in quantum market,Forbes,positive,0.378,https://example.com/quantum/ionq/60123
+2024-09-06,Xanadu mentions in quantum market,Reuters,neutral,-0.125,https://example.com/quantum/xanadu/76309
+2024-09-03,IBM Quantum announces in quantum market,Ars Technica,positive,0.747,https://example.com/quantum/ibm-quantum/71569
+2024-09-02,IBM Quantum recalls in quantum market,The Information,negative,-0.464,https://example.com/quantum/ibm-quantum/33411
+2024-08-30,IBM Quantum states in quantum market,VentureBeat,neutral,0.152,https://example.com/quantum/ibm-quantum/52036
+2024-08-27,Rigetti reports in quantum market,Ars Technica,neutral,-0.197,https://example.com/quantum/rigetti/36868
+2024-08-19,Xanadu files in quantum market,The Information,neutral,-0.027,https://example.com/quantum/xanadu/24793
+2024-08-18,IonQ wins in quantum market,Reuters,positive,0.522,https://example.com/quantum/ionq/60123
+2024-08-12,Rigetti states in quantum market,Reuters,neutral,0.008,https://example.com/quantum/rigetti/15029
+2024-08-06,Rigetti states in quantum market,Bloomberg,neutral,0.167,https://example.com/quantum/rigetti/15029
+2024-07-25,IBM Quantum introduces in quantum market,VentureBeat,neutral,0.155,https://example.com/quantum/ibm-quantum/3236
+2024-07-23,IonQ cuts in quantum market,CNBC,negative,-0.994,https://example.com/quantum/ionq/82083
+2024-07-23,Xanadu launches in quantum market,The Verge,neutral,-0.172,https://example.com/quantum/xanadu/58126
+2024-07-09,Rigetti files in quantum market,Bloomberg,neutral,-0.061,https://example.com/quantum/rigetti/32365
+2024-06-29,Rigetti accelerates in quantum market,Wall Street Journal,positive,0.846,https://example.com/quantum/rigetti/96670
+2024-06-11,IBM Quantum partners with in quantum market,Wired,positive,0.958,https://example.com/quantum/ibm-quantum/33920
+2024-06-09,Xanadu suffers in quantum market,VentureBeat,negative,-0.635,https://example.com/quantum/xanadu/94979
+2024-06-03,Rigetti reports in quantum market,CNBC,neutral,0.187,https://example.com/quantum/rigetti/36868
+2024-05-23,IonQ files in quantum market,The Information,neutral,0.144,https://example.com/quantum/ionq/44029
+2024-05-14,D-Wave Systems expands in quantum market,Bloomberg,positive,0.371,https://example.com/quantum/d-wave-systems/5535
+2024-04-30,IBM Quantum introduces in quantum market,Financial Times,neutral,0.096,https://example.com/quantum/ibm-quantum/3236
+2024-04-27,IonQ accelerates in quantum market,Reuters,positive,0.474,https://example.com/quantum/ionq/64584
+2024-04-21,IBM Quantum states in quantum market,The Verge,neutral,-0.020,https://example.com/quantum/ibm-quantum/52036

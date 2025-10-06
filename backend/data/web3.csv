@@ -1,0 +1,101 @@
+date,headline,source,sentiment,sentiment_score,link
+2025-09-20,Chainalysis launches in web3 market,Bloomberg,neutral,0.074,https://example.com/web3/chainalysis/1346
+2025-09-16,Chainalysis outperforms in web3 market,The Verge,positive,0.458,https://example.com/web3/chainalysis/47957
+2025-09-10,Chainalysis beats in web3 market,Forbes,positive,0.473,https://example.com/web3/chainalysis/32622
+2025-09-10,Binance expands in web3 market,Reuters,positive,0.581,https://example.com/web3/binance/2348
+2025-08-22,ConsenSys reveals in web3 market,Bloomberg,neutral,0.084,https://example.com/web3/consensys/58047
+2025-08-20,Coinbase updates in web3 market,Forbes,neutral,-0.132,https://example.com/web3/coinbase/66109
+2025-08-19,Binance reveals in web3 market,Protocol,neutral,-0.157,https://example.com/web3/binance/91961
+2025-08-15,ConsenSys introduces in web3 market,Ars Technica,neutral,-0.174,https://example.com/web3/consensys/36819
+2025-08-05,Chainalysis falls in web3 market,Protocol,negative,-0.805,https://example.com/web3/chainalysis/5014
+2025-08-01,Binance outperforms in web3 market,Wall Street Journal,positive,0.422,https://example.com/web3/binance/6960
+2025-07-28,Binance falls in web3 market,Engadget,negative,-0.252,https://example.com/web3/binance/83407
+2025-07-15,ConsenSys announces in web3 market,Wall Street Journal,positive,0.944,https://example.com/web3/consensys/83417
+2025-07-12,Chainalysis updates in web3 market,Wired,neutral,-0.008,https://example.com/web3/chainalysis/41338
+2025-07-02,Chainalysis launches in web3 market,Financial Times,neutral,0.152,https://example.com/web3/chainalysis/1346
+2025-06-28,ConsenSys tops in web3 market,The Verge,positive,0.795,https://example.com/web3/consensys/84137
+2025-06-21,Polygon Labs announces in web3 market,Financial Times,positive,0.553,https://example.com/web3/polygon-labs/2828
+2025-06-05,Polygon Labs wins in web3 market,Ars Technica,positive,0.634,https://example.com/web3/polygon-labs/67268
+2025-06-04,ConsenSys notes in web3 market,Reuters,neutral,0.183,https://example.com/web3/consensys/76558
+2025-06-03,Chainalysis reveals in web3 market,TechCrunch,neutral,-0.170,https://example.com/web3/chainalysis/78523
+2025-05-28,Chainalysis states in web3 market,The Verge,neutral,-0.098,https://example.com/web3/chainalysis/15237
+2025-05-27,Binance expands in web3 market,The Information,positive,0.700,https://example.com/web3/binance/2348
+2025-05-14,Polygon Labs announces in web3 market,TechCrunch,positive,0.816,https://example.com/web3/polygon-labs/2828
+2025-05-09,Coinbase tops in web3 market,Financial Times,positive,0.950,https://example.com/web3/coinbase/21822
+2025-05-08,ConsenSys introduces in web3 market,The Information,neutral,-0.064,https://example.com/web3/consensys/36819
+2025-05-07,Coinbase delays in web3 market,Ars Technica,negative,-0.837,https://example.com/web3/coinbase/56493
+2025-05-06,Polygon Labs surges in web3 market,Reuters,positive,0.503,https://example.com/web3/polygon-labs/42314
+2025-04-29,ConsenSys files in web3 market,VentureBeat,neutral,0.012,https://example.com/web3/consensys/61431
+2025-04-20,Chainalysis notes in web3 market,Ars Technica,neutral,0.152,https://example.com/web3/chainalysis/1412
+2025-04-09,Chainalysis states in web3 market,Reuters,neutral,-0.009,https://example.com/web3/chainalysis/15237
+2025-04-08,Coinbase mentions in web3 market,Reuters,neutral,0.023,https://example.com/web3/coinbase/85699
+2025-04-03,Binance surges in web3 market,The Verge,positive,0.787,https://example.com/web3/binance/2961
+2025-04-02,Binance surges in web3 market,Financial Times,positive,0.888,https://example.com/web3/binance/2961
+2025-04-01,Binance cuts in web3 market,CNBC,negative,-0.657,https://example.com/web3/binance/47927
+2025-03-25,Coinbase tops in web3 market,Reuters,positive,0.248,https://example.com/web3/coinbase/21822
+2025-03-16,Chainalysis recalls in web3 market,Ars Technica,negative,-0.700,https://example.com/web3/chainalysis/59393
+2025-03-15,Polygon Labs surges in web3 market,Engadget,positive,0.696,https://example.com/web3/polygon-labs/42314
+2025-03-07,Chainalysis tops in web3 market,Wall Street Journal,positive,0.553,https://example.com/web3/chainalysis/6616
+2025-03-07,Binance launches in web3 market,Wall Street Journal,neutral,0.098,https://example.com/web3/binance/49607
+2025-03-06,Coinbase falls in web3 market,Financial Times,negative,-0.445,https://example.com/web3/coinbase/12759
+2025-03-06,Chainalysis reveals in web3 market,Bloomberg,neutral,0.019,https://example.com/web3/chainalysis/78523
+2025-02-25,Coinbase launches in web3 market,Bloomberg,neutral,0.016,https://example.com/web3/coinbase/37664
+2025-02-22,Polygon Labs surges in web3 market,TechCrunch,positive,0.613,https://example.com/web3/polygon-labs/42314
+2025-02-02,Binance states in web3 market,Forbes,neutral,-0.090,https://example.com/web3/binance/56495
+2025-02-01,Chainalysis falls in web3 market,The Information,negative,-0.787,https://example.com/web3/chainalysis/5014
+2025-01-23,Coinbase wins in web3 market,TechCrunch,positive,0.672,https://example.com/web3/coinbase/30065
+2025-01-08,Chainalysis expands in web3 market,Financial Times,positive,0.914,https://example.com/web3/chainalysis/10377
+2024-12-27,Polygon Labs files in web3 market,The Information,neutral,-0.002,https://example.com/web3/polygon-labs/57601
+2024-12-25,Binance reveals in web3 market,Ars Technica,neutral,-0.164,https://example.com/web3/binance/91961
+2024-12-10,Coinbase falls in web3 market,The Information,negative,-0.782,https://example.com/web3/coinbase/12759
+2024-12-10,ConsenSys launches in web3 market,Wall Street Journal,neutral,0.119,https://example.com/web3/consensys/67812
+2024-12-09,Chainalysis expands in web3 market,Bloomberg,positive,0.497,https://example.com/web3/chainalysis/10377
+2024-12-02,Binance mentions in web3 market,Reuters,neutral,-0.112,https://example.com/web3/binance/12447
+2024-12-02,Chainalysis wins in web3 market,Forbes,positive,0.955,https://example.com/web3/chainalysis/61413
+2024-11-30,Coinbase launches in web3 market,Bloomberg,neutral,0.177,https://example.com/web3/coinbase/37664
+2024-11-30,Binance outperforms in web3 market,Ars Technica,positive,0.625,https://example.com/web3/binance/6960
+2024-11-28,ConsenSys outperforms in web3 market,Ars Technica,positive,0.648,https://example.com/web3/consensys/60381
+2024-11-27,ConsenSys announces in web3 market,Ars Technica,positive,0.603,https://example.com/web3/consensys/83417
+2024-11-24,Polygon Labs reports in web3 market,The Information,neutral,-0.039,https://example.com/web3/polygon-labs/54334
+2024-11-19,ConsenSys partners with in web3 market,Engadget,positive,0.256,https://example.com/web3/consensys/53824
+2024-11-19,Chainalysis warns in web3 market,Bloomberg,negative,-0.396,https://example.com/web3/chainalysis/54731
+2024-11-16,Coinbase partners with in web3 market,Wall Street Journal,positive,0.433,https://example.com/web3/coinbase/1186
+2024-11-14,Chainalysis states in web3 market,The Information,neutral,-0.113,https://example.com/web3/chainalysis/15237
+2024-11-04,ConsenSys beats in web3 market,Wired,positive,0.520,https://example.com/web3/consensys/6510
+2024-10-22,Polygon Labs wins in web3 market,Wall Street Journal,positive,0.330,https://example.com/web3/polygon-labs/67268
+2024-10-13,Binance beats in web3 market,Ars Technica,positive,0.409,https://example.com/web3/binance/36915
+2024-10-13,Polygon Labs mentions in web3 market,Forbes,neutral,0.076,https://example.com/web3/polygon-labs/44140
+2024-10-06,Polygon Labs delays in web3 market,Reuters,negative,-0.960,https://example.com/web3/polygon-labs/62832
+2024-09-26,Polygon Labs updates in web3 market,The Information,neutral,-0.069,https://example.com/web3/polygon-labs/93909
+2024-09-22,ConsenSys files in web3 market,Financial Times,neutral,-0.029,https://example.com/web3/consensys/61431
+2024-09-15,Coinbase notes in web3 market,Financial Times,neutral,0.073,https://example.com/web3/coinbase/92328
+2024-09-10,Polygon Labs cuts in web3 market,Wall Street Journal,negative,-0.950,https://example.com/web3/polygon-labs/41860
+2024-08-30,Chainalysis launches in web3 market,VentureBeat,neutral,0.028,https://example.com/web3/chainalysis/1346
+2024-08-28,Polygon Labs updates in web3 market,Financial Times,neutral,-0.033,https://example.com/web3/polygon-labs/93909
+2024-08-28,ConsenSys misses in web3 market,Ars Technica,negative,-0.572,https://example.com/web3/consensys/65748
+2024-08-24,Binance beats in web3 market,The Verge,positive,0.677,https://example.com/web3/binance/36915
+2024-08-10,Polygon Labs partners with in web3 market,Reuters,positive,0.978,https://example.com/web3/polygon-labs/27671
+2024-08-10,ConsenSys launches in web3 market,CNBC,neutral,-0.159,https://example.com/web3/consensys/67812
+2024-08-08,ConsenSys tops in web3 market,Bloomberg,positive,0.284,https://example.com/web3/consensys/84137
+2024-08-04,ConsenSys wins in web3 market,Ars Technica,positive,0.570,https://example.com/web3/consensys/26841
+2024-07-27,Coinbase misses in web3 market,Engadget,negative,-0.526,https://example.com/web3/coinbase/90460
+2024-07-24,Binance outperforms in web3 market,The Verge,positive,0.682,https://example.com/web3/binance/6960
+2024-07-22,Polygon Labs partners with in web3 market,The Verge,positive,0.268,https://example.com/web3/polygon-labs/27671
+2024-07-21,Coinbase launches in web3 market,Bloomberg,neutral,-0.036,https://example.com/web3/coinbase/37664
+2024-07-19,Chainalysis partners with in web3 market,Engadget,positive,0.740,https://example.com/web3/chainalysis/57312
+2024-07-16,Binance introduces in web3 market,Forbes,neutral,-0.105,https://example.com/web3/binance/53773
+2024-07-13,Binance warns in web3 market,CNBC,negative,-0.519,https://example.com/web3/binance/11781
+2024-06-29,Coinbase states in web3 market,Protocol,neutral,0.153,https://example.com/web3/coinbase/18077
+2024-06-18,Polygon Labs updates in web3 market,Wall Street Journal,neutral,-0.062,https://example.com/web3/polygon-labs/93909
+2024-06-17,Binance files in web3 market,CNBC,neutral,-0.099,https://example.com/web3/binance/30051
+2024-06-14,Binance surges in web3 market,Wall Street Journal,positive,0.316,https://example.com/web3/binance/2961
+2024-06-10,Coinbase announces in web3 market,Bloomberg,positive,0.704,https://example.com/web3/coinbase/11390
+2024-06-05,Chainalysis wins in web3 market,Reuters,positive,0.485,https://example.com/web3/chainalysis/61413
+2024-05-29,Polygon Labs beats in web3 market,The Verge,positive,0.469,https://example.com/web3/polygon-labs/37610
+2024-05-21,ConsenSys states in web3 market,Engadget,neutral,0.153,https://example.com/web3/consensys/38912
+2024-05-20,Polygon Labs mentions in web3 market,Engadget,neutral,0.109,https://example.com/web3/polygon-labs/44140
+2024-05-06,Binance expands in web3 market,Engadget,positive,0.386,https://example.com/web3/binance/2348
+2024-05-02,Binance states in web3 market,Ars Technica,neutral,-0.197,https://example.com/web3/binance/56495
+2024-05-02,Binance downgrades in web3 market,Reuters,negative,-0.838,https://example.com/web3/binance/61327
+2024-04-30,Polygon Labs announces in web3 market,VentureBeat,positive,0.292,https://example.com/web3/polygon-labs/2828
+2024-04-27,Chainalysis misses in web3 market,Wall Street Journal,negative,-0.922,https://example.com/web3/chainalysis/34131

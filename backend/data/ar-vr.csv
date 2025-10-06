@@ -1,0 +1,101 @@
+date,headline,source,sentiment,sentiment_score,link
+2025-10-02,Niantic notes in ar vr market,Ars Technica,neutral,-0.084,https://example.com/ar-vr/niantic/13442
+2025-10-02,Niantic states in ar vr market,Wall Street Journal,neutral,0.103,https://example.com/ar-vr/niantic/29349
+2025-10-01,Meta (Reality Labs) launches in ar vr market,Reuters,neutral,-0.137,https://example.com/ar-vr/meta-(reality-labs)/30089
+2025-10-01,Niantic accelerates in ar vr market,The Information,positive,0.236,https://example.com/ar-vr/niantic/60364
+2025-09-21,Varjo suffers in ar vr market,VentureBeat,negative,-0.305,https://example.com/ar-vr/varjo/37503
+2025-09-17,HTC Vive states in ar vr market,Bloomberg,neutral,0.073,https://example.com/ar-vr/htc-vive/69562
+2025-09-11,Niantic beats in ar vr market,VentureBeat,positive,0.751,https://example.com/ar-vr/niantic/4429
+2025-08-23,Magic Leap partners with in ar vr market,Engadget,positive,0.690,https://example.com/ar-vr/magic-leap/18633
+2025-08-21,Meta (Reality Labs) files in ar vr market,Reuters,neutral,-0.022,https://example.com/ar-vr/meta-(reality-labs)/80750
+2025-08-18,Varjo introduces in ar vr market,TechCrunch,neutral,0.142,https://example.com/ar-vr/varjo/75254
+2025-08-18,Varjo states in ar vr market,CNBC,neutral,-0.150,https://example.com/ar-vr/varjo/75596
+2025-08-12,Varjo reveals in ar vr market,Engadget,neutral,-0.120,https://example.com/ar-vr/varjo/47179
+2025-08-11,Varjo reports in ar vr market,Engadget,neutral,0.073,https://example.com/ar-vr/varjo/35077
+2025-08-09,Meta (Reality Labs) surges in ar vr market,Ars Technica,positive,0.398,https://example.com/ar-vr/meta-(reality-labs)/80335
+2025-08-03,Magic Leap accelerates in ar vr market,CNBC,positive,0.360,https://example.com/ar-vr/magic-leap/28155
+2025-08-02,Meta (Reality Labs) reports in ar vr market,Engadget,neutral,-0.145,https://example.com/ar-vr/meta-(reality-labs)/64750
+2025-07-29,Niantic reveals in ar vr market,Forbes,neutral,0.082,https://example.com/ar-vr/niantic/43083
+2025-07-26,HTC Vive notes in ar vr market,TechCrunch,neutral,-0.023,https://example.com/ar-vr/htc-vive/67244
+2025-07-17,HTC Vive partners with in ar vr market,Bloomberg,positive,0.589,https://example.com/ar-vr/htc-vive/3534
+2025-06-27,Magic Leap states in ar vr market,The Verge,neutral,0.061,https://example.com/ar-vr/magic-leap/36587
+2025-06-21,Meta (Reality Labs) introduces in ar vr market,Reuters,neutral,-0.092,https://example.com/ar-vr/meta-(reality-labs)/75740
+2025-06-20,Meta (Reality Labs) states in ar vr market,Protocol,neutral,0.013,https://example.com/ar-vr/meta-(reality-labs)/20790
+2025-06-19,Meta (Reality Labs) cuts in ar vr market,The Verge,negative,-0.799,https://example.com/ar-vr/meta-(reality-labs)/57065
+2025-06-15,Niantic notes in ar vr market,Wall Street Journal,neutral,-0.185,https://example.com/ar-vr/niantic/13442
+2025-06-13,Magic Leap surges in ar vr market,Protocol,positive,0.917,https://example.com/ar-vr/magic-leap/3992
+2025-06-05,Magic Leap introduces in ar vr market,Wall Street Journal,neutral,-0.071,https://example.com/ar-vr/magic-leap/95786
+2025-06-04,Meta (Reality Labs) downgrades in ar vr market,VentureBeat,negative,-0.788,https://example.com/ar-vr/meta-(reality-labs)/86831
+2025-05-24,Meta (Reality Labs) recalls in ar vr market,Forbes,negative,-0.273,https://example.com/ar-vr/meta-(reality-labs)/41044
+2025-05-21,Niantic recalls in ar vr market,The Verge,negative,-0.488,https://example.com/ar-vr/niantic/50894
+2025-05-20,Magic Leap tops in ar vr market,Reuters,positive,0.793,https://example.com/ar-vr/magic-leap/96353
+2025-05-14,Meta (Reality Labs) states in ar vr market,Reuters,neutral,0.005,https://example.com/ar-vr/meta-(reality-labs)/20790
+2025-05-14,Magic Leap tops in ar vr market,TechCrunch,positive,0.675,https://example.com/ar-vr/magic-leap/96353
+2025-05-10,Varjo partners with in ar vr market,Forbes,positive,0.752,https://example.com/ar-vr/varjo/29798
+2025-05-09,HTC Vive states in ar vr market,Protocol,neutral,-0.031,https://example.com/ar-vr/htc-vive/69562
+2025-05-06,Magic Leap notes in ar vr market,Bloomberg,neutral,0.065,https://example.com/ar-vr/magic-leap/4417
+2025-05-03,Meta (Reality Labs) launches in ar vr market,Forbes,neutral,0.082,https://example.com/ar-vr/meta-(reality-labs)/30089
+2025-04-23,HTC Vive surges in ar vr market,Ars Technica,positive,0.961,https://example.com/ar-vr/htc-vive/51457
+2025-04-09,HTC Vive accelerates in ar vr market,Reuters,positive,0.341,https://example.com/ar-vr/htc-vive/9819
+2025-04-09,Magic Leap expands in ar vr market,The Verge,positive,0.820,https://example.com/ar-vr/magic-leap/3531
+2025-04-09,Niantic outperforms in ar vr market,Wall Street Journal,positive,0.351,https://example.com/ar-vr/niantic/62368
+2025-04-02,Varjo expands in ar vr market,Wall Street Journal,positive,0.232,https://example.com/ar-vr/varjo/46745
+2025-03-26,HTC Vive beats in ar vr market,Engadget,positive,0.835,https://example.com/ar-vr/htc-vive/65848
+2025-03-19,HTC Vive surges in ar vr market,Protocol,positive,0.527,https://example.com/ar-vr/htc-vive/51457
+2025-03-18,Varjo announces in ar vr market,CNBC,positive,0.500,https://example.com/ar-vr/varjo/98945
+2025-03-14,Varjo cuts in ar vr market,Financial Times,negative,-0.996,https://example.com/ar-vr/varjo/21280
+2025-03-14,HTC Vive mentions in ar vr market,The Information,neutral,0.129,https://example.com/ar-vr/htc-vive/69614
+2025-03-06,Varjo reports in ar vr market,Bloomberg,neutral,0.198,https://example.com/ar-vr/varjo/35077
+2025-02-24,Meta (Reality Labs) surges in ar vr market,Forbes,positive,0.779,https://example.com/ar-vr/meta-(reality-labs)/80335
+2025-02-21,Niantic reveals in ar vr market,VentureBeat,neutral,0.120,https://example.com/ar-vr/niantic/43083
+2025-02-19,Magic Leap wins in ar vr market,Wall Street Journal,positive,0.799,https://example.com/ar-vr/magic-leap/38120
+2025-02-17,Varjo misses in ar vr market,Ars Technica,negative,-0.938,https://example.com/ar-vr/varjo/94473
+2025-02-10,Varjo mentions in ar vr market,VentureBeat,neutral,-0.023,https://example.com/ar-vr/varjo/64817
+2025-02-04,HTC Vive updates in ar vr market,The Verge,neutral,-0.106,https://example.com/ar-vr/htc-vive/58508
+2025-02-03,Niantic accelerates in ar vr market,Protocol,positive,0.521,https://example.com/ar-vr/niantic/60364
+2025-02-01,HTC Vive launches in ar vr market,Protocol,neutral,-0.110,https://example.com/ar-vr/htc-vive/11270
+2025-01-31,Magic Leap outperforms in ar vr market,CNBC,positive,0.262,https://example.com/ar-vr/magic-leap/71512
+2025-01-24,Niantic wins in ar vr market,Wired,positive,0.803,https://example.com/ar-vr/niantic/7098
+2025-01-23,Niantic wins in ar vr market,The Verge,positive,0.388,https://example.com/ar-vr/niantic/7098
+2025-01-15,Magic Leap expands in ar vr market,Protocol,positive,0.966,https://example.com/ar-vr/magic-leap/3531
+2025-01-14,Meta (Reality Labs) mentions in ar vr market,The Information,neutral,0.070,https://example.com/ar-vr/meta-(reality-labs)/45479
+2025-01-08,Meta (Reality Labs) accelerates in ar vr market,The Verge,positive,0.697,https://example.com/ar-vr/meta-(reality-labs)/24150
+2025-01-07,Niantic partners with in ar vr market,Wall Street Journal,positive,0.248,https://example.com/ar-vr/niantic/15874
+2024-12-31,Niantic states in ar vr market,The Verge,neutral,-0.014,https://example.com/ar-vr/niantic/29349
+2024-12-28,Niantic reports in ar vr market,The Information,neutral,0.114,https://example.com/ar-vr/niantic/38093
+2024-12-22,Magic Leap delays in ar vr market,Bloomberg,negative,-0.973,https://example.com/ar-vr/magic-leap/41313
+2024-12-21,Varjo tops in ar vr market,The Information,positive,0.808,https://example.com/ar-vr/varjo/49030
+2024-12-10,HTC Vive downgrades in ar vr market,TechCrunch,negative,-0.620,https://example.com/ar-vr/htc-vive/916
+2024-12-06,HTC Vive accelerates in ar vr market,Bloomberg,positive,0.295,https://example.com/ar-vr/htc-vive/9819
+2024-12-06,HTC Vive launches in ar vr market,CNBC,neutral,-0.029,https://example.com/ar-vr/htc-vive/11270
+2024-11-23,HTC Vive tops in ar vr market,TechCrunch,positive,0.913,https://example.com/ar-vr/htc-vive/27571
+2024-11-10,Magic Leap announces in ar vr market,Protocol,positive,0.525,https://example.com/ar-vr/magic-leap/98278
+2024-11-08,Magic Leap accelerates in ar vr market,Wall Street Journal,positive,0.808,https://example.com/ar-vr/magic-leap/28155
+2024-11-03,Meta (Reality Labs) suffers in ar vr market,The Information,negative,-0.332,https://example.com/ar-vr/meta-(reality-labs)/86106
+2024-10-31,HTC Vive updates in ar vr market,Wired,neutral,0.129,https://example.com/ar-vr/htc-vive/58508
+2024-10-30,HTC Vive partners with in ar vr market,Wall Street Journal,positive,0.697,https://example.com/ar-vr/htc-vive/3534
+2024-10-16,Meta (Reality Labs) tops in ar vr market,Financial Times,positive,0.263,https://example.com/ar-vr/meta-(reality-labs)/23060
+2024-10-06,Varjo cuts in ar vr market,Financial Times,negative,-0.959,https://example.com/ar-vr/varjo/21280
+2024-09-30,Magic Leap suffers in ar vr market,The Verge,negative,-0.778,https://example.com/ar-vr/magic-leap/2586
+2024-09-26,Varjo tops in ar vr market,VentureBeat,positive,0.963,https://example.com/ar-vr/varjo/49030
+2024-09-23,Varjo downgrades in ar vr market,Protocol,negative,-0.800,https://example.com/ar-vr/varjo/64474
+2024-09-17,Varjo accelerates in ar vr market,Financial Times,positive,0.927,https://example.com/ar-vr/varjo/93944
+2024-09-12,HTC Vive states in ar vr market,CNBC,neutral,0.122,https://example.com/ar-vr/htc-vive/69562
+2024-09-10,Niantic mentions in ar vr market,Protocol,neutral,-0.157,https://example.com/ar-vr/niantic/39994
+2024-09-01,Varjo wins in ar vr market,Ars Technica,positive,0.979,https://example.com/ar-vr/varjo/8870
+2024-08-30,Niantic surges in ar vr market,Forbes,positive,0.514,https://example.com/ar-vr/niantic/5303
+2024-08-29,Meta (Reality Labs) partners with in ar vr market,Reuters,positive,0.458,https://example.com/ar-vr/meta-(reality-labs)/81556
+2024-08-28,Magic Leap downgrades in ar vr market,TechCrunch,negative,-0.252,https://example.com/ar-vr/magic-leap/11077
+2024-08-17,Niantic tops in ar vr market,Engadget,positive,0.580,https://example.com/ar-vr/niantic/70375
+2024-08-13,Meta (Reality Labs) downgrades in ar vr market,Bloomberg,negative,-0.692,https://example.com/ar-vr/meta-(reality-labs)/86831
+2024-07-16,Magic Leap announces in ar vr market,Wall Street Journal,positive,0.872,https://example.com/ar-vr/magic-leap/98278
+2024-07-02,Varjo reveals in ar vr market,Protocol,neutral,-0.125,https://example.com/ar-vr/varjo/47179
+2024-06-28,HTC Vive notes in ar vr market,CNBC,neutral,0.034,https://example.com/ar-vr/htc-vive/67244
+2024-06-19,Varjo reports in ar vr market,The Verge,neutral,0.085,https://example.com/ar-vr/varjo/35077
+2024-06-16,HTC Vive tops in ar vr market,Reuters,positive,0.926,https://example.com/ar-vr/htc-vive/27571
+2024-06-11,HTC Vive expands in ar vr market,The Verge,positive,0.751,https://example.com/ar-vr/htc-vive/57574
+2024-06-10,Varjo notes in ar vr market,Wired,neutral,0.070,https://example.com/ar-vr/varjo/44690
+2024-06-03,Niantic expands in ar vr market,Financial Times,positive,0.773,https://example.com/ar-vr/niantic/88103
+2024-05-09,Meta (Reality Labs) beats in ar vr market,Financial Times,positive,0.695,https://example.com/ar-vr/meta-(reality-labs)/87908
+2024-05-09,Magic Leap surges in ar vr market,TechCrunch,positive,0.706,https://example.com/ar-vr/magic-leap/3992
+2024-04-15,Meta (Reality Labs) tops in ar vr market,Protocol,positive,0.213,https://example.com/ar-vr/meta-(reality-labs)/23060

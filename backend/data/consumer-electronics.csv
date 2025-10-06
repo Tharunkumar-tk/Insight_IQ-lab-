@@ -1,0 +1,101 @@
+date,headline,source,sentiment,sentiment_score,link
+2025-09-26,Xiaomi launches in consumer electronics market,The Verge,neutral,-0.146,https://example.com/consumer-electronics/xiaomi/78181
+2025-09-18,Samsung Electronics reports in consumer electronics market,Bloomberg,neutral,-0.095,https://example.com/consumer-electronics/samsung-electronics/66106
+2025-09-07,LG Electronics downgrades in consumer electronics market,Engadget,negative,-0.717,https://example.com/consumer-electronics/lg-electronics/18119
+2025-08-29,Samsung Electronics launches in consumer electronics market,Engadget,neutral,0.001,https://example.com/consumer-electronics/samsung-electronics/17236
+2025-08-29,Xiaomi surges in consumer electronics market,Financial Times,positive,0.325,https://example.com/consumer-electronics/xiaomi/27264
+2025-08-28,Xiaomi launches in consumer electronics market,The Information,neutral,0.130,https://example.com/consumer-electronics/xiaomi/78181
+2025-08-28,Samsung Electronics wins in consumer electronics market,TechCrunch,positive,0.732,https://example.com/consumer-electronics/samsung-electronics/97468
+2025-08-25,LG Electronics reports in consumer electronics market,CNBC,neutral,-0.042,https://example.com/consumer-electronics/lg-electronics/16576
+2025-08-21,LG Electronics states in consumer electronics market,Forbes,neutral,0.024,https://example.com/consumer-electronics/lg-electronics/38509
+2025-08-20,LG Electronics outperforms in consumer electronics market,Wall Street Journal,positive,0.384,https://example.com/consumer-electronics/lg-electronics/45885
+2025-08-09,LG Electronics files in consumer electronics market,Engadget,neutral,-0.153,https://example.com/consumer-electronics/lg-electronics/27092
+2025-07-20,Sony files in consumer electronics market,Financial Times,neutral,0.115,https://example.com/consumer-electronics/sony/32505
+2025-07-15,LG Electronics falls in consumer electronics market,TechCrunch,negative,-0.239,https://example.com/consumer-electronics/lg-electronics/29618
+2025-07-08,Samsung Electronics mentions in consumer electronics market,Engadget,neutral,0.158,https://example.com/consumer-electronics/samsung-electronics/82523
+2025-07-02,Sony tops in consumer electronics market,CNBC,positive,0.810,https://example.com/consumer-electronics/sony/91694
+2025-06-29,Samsung Electronics recalls in consumer electronics market,VentureBeat,negative,-0.229,https://example.com/consumer-electronics/samsung-electronics/7873
+2025-06-28,Xiaomi notes in consumer electronics market,Wall Street Journal,neutral,-0.034,https://example.com/consumer-electronics/xiaomi/40847
+2025-06-18,LG Electronics launches in consumer electronics market,Wall Street Journal,neutral,0.111,https://example.com/consumer-electronics/lg-electronics/16281
+2025-06-16,Sony files in consumer electronics market,Bloomberg,neutral,-0.173,https://example.com/consumer-electronics/sony/32505
+2025-06-12,Apple mentions in consumer electronics market,Reuters,neutral,-0.179,https://example.com/consumer-electronics/apple/33034
+2025-06-11,LG Electronics outperforms in consumer electronics market,Reuters,positive,0.308,https://example.com/consumer-electronics/lg-electronics/45885
+2025-06-10,Apple accelerates in consumer electronics market,Protocol,positive,0.902,https://example.com/consumer-electronics/apple/85865
+2025-05-21,Sony faces probe in consumer electronics market,The Verge,negative,-0.632,https://example.com/consumer-electronics/sony/74919
+2025-05-17,Apple tops in consumer electronics market,Protocol,positive,0.624,https://example.com/consumer-electronics/apple/26103
+2025-05-14,Sony misses in consumer electronics market,Ars Technica,negative,-0.483,https://example.com/consumer-electronics/sony/68443
+2025-05-13,Xiaomi beats in consumer electronics market,Financial Times,positive,0.553,https://example.com/consumer-electronics/xiaomi/48207
+2025-05-11,Xiaomi expands in consumer electronics market,Forbes,positive,0.671,https://example.com/consumer-electronics/xiaomi/29189
+2025-05-06,Samsung Electronics wins in consumer electronics market,Wall Street Journal,positive,0.318,https://example.com/consumer-electronics/samsung-electronics/97468
+2025-04-28,Sony states in consumer electronics market,Ars Technica,neutral,0.031,https://example.com/consumer-electronics/sony/56538
+2025-04-22,Xiaomi wins in consumer electronics market,Engadget,positive,0.499,https://example.com/consumer-electronics/xiaomi/39676
+2025-04-16,Xiaomi suffers in consumer electronics market,VentureBeat,negative,-0.292,https://example.com/consumer-electronics/xiaomi/72394
+2025-04-06,Apple expands in consumer electronics market,The Information,positive,0.335,https://example.com/consumer-electronics/apple/77738
+2025-04-02,Sony wins in consumer electronics market,Financial Times,positive,0.686,https://example.com/consumer-electronics/sony/59002
+2025-03-29,Xiaomi reveals in consumer electronics market,Ars Technica,neutral,-0.192,https://example.com/consumer-electronics/xiaomi/59108
+2025-03-23,Xiaomi reports in consumer electronics market,The Information,neutral,-0.192,https://example.com/consumer-electronics/xiaomi/35327
+2025-03-16,LG Electronics launches in consumer electronics market,Reuters,neutral,0.048,https://example.com/consumer-electronics/lg-electronics/16281
+2025-03-15,Apple warns in consumer electronics market,Wired,negative,-0.835,https://example.com/consumer-electronics/apple/95413
+2025-03-11,Samsung Electronics outperforms in consumer electronics market,Reuters,positive,0.557,https://example.com/consumer-electronics/samsung-electronics/82446
+2025-03-07,Sony reveals in consumer electronics market,CNBC,neutral,-0.090,https://example.com/consumer-electronics/sony/56578
+2025-03-06,Apple tops in consumer electronics market,The Verge,positive,0.550,https://example.com/consumer-electronics/apple/26103
+2025-02-17,Xiaomi faces probe in consumer electronics market,The Verge,negative,-0.618,https://example.com/consumer-electronics/xiaomi/69395
+2025-02-17,Samsung Electronics cuts in consumer electronics market,The Information,negative,-0.348,https://example.com/consumer-electronics/samsung-electronics/86359
+2025-02-15,Sony misses in consumer electronics market,Wired,negative,-0.889,https://example.com/consumer-electronics/sony/68443
+2025-02-08,LG Electronics partners with in consumer electronics market,Engadget,positive,0.249,https://example.com/consumer-electronics/lg-electronics/83051
+2025-02-04,LG Electronics expands in consumer electronics market,Reuters,positive,0.444,https://example.com/consumer-electronics/lg-electronics/98998
+2025-02-04,Apple notes in consumer electronics market,Protocol,neutral,-0.099,https://example.com/consumer-electronics/apple/7383
+2025-02-03,Sony announces in consumer electronics market,The Information,positive,0.459,https://example.com/consumer-electronics/sony/63695
+2025-01-29,Sony launches in consumer electronics market,Ars Technica,neutral,0.167,https://example.com/consumer-electronics/sony/19194
+2025-01-19,Apple tops in consumer electronics market,Bloomberg,positive,0.627,https://example.com/consumer-electronics/apple/26103
+2025-01-11,Samsung Electronics beats in consumer electronics market,Protocol,positive,0.326,https://example.com/consumer-electronics/samsung-electronics/6438
+2025-01-08,Apple outperforms in consumer electronics market,The Verge,positive,0.274,https://example.com/consumer-electronics/apple/62102
+2025-01-07,LG Electronics states in consumer electronics market,Financial Times,neutral,-0.145,https://example.com/consumer-electronics/lg-electronics/38509
+2025-01-07,Apple introduces in consumer electronics market,Engadget,neutral,-0.119,https://example.com/consumer-electronics/apple/85566
+2024-12-25,Samsung Electronics tops in consumer electronics market,The Information,positive,0.554,https://example.com/consumer-electronics/samsung-electronics/34118
+2024-12-17,Apple wins in consumer electronics market,Forbes,positive,0.997,https://example.com/consumer-electronics/apple/18250
+2024-12-08,LG Electronics wins in consumer electronics market,Bloomberg,positive,0.925,https://example.com/consumer-electronics/lg-electronics/63580
+2024-12-02,Sony announces in consumer electronics market,Wired,positive,0.765,https://example.com/consumer-electronics/sony/63695
+2024-11-25,LG Electronics states in consumer electronics market,TechCrunch,neutral,0.013,https://example.com/consumer-electronics/lg-electronics/38509
+2024-11-21,Samsung Electronics surges in consumer electronics market,VentureBeat,positive,0.410,https://example.com/consumer-electronics/samsung-electronics/43247
+2024-11-19,Xiaomi accelerates in consumer electronics market,VentureBeat,positive,0.267,https://example.com/consumer-electronics/xiaomi/19644
+2024-11-03,Xiaomi states in consumer electronics market,Wired,neutral,-0.181,https://example.com/consumer-electronics/xiaomi/31923
+2024-11-01,LG Electronics faces probe in consumer electronics market,The Verge,negative,-0.571,https://example.com/consumer-electronics/lg-electronics/60037
+2024-10-07,Xiaomi announces in consumer electronics market,Forbes,positive,0.491,https://example.com/consumer-electronics/xiaomi/47699
+2024-10-04,Apple announces in consumer electronics market,Wired,positive,0.417,https://example.com/consumer-electronics/apple/84095
+2024-10-01,Apple expands in consumer electronics market,Financial Times,positive,0.838,https://example.com/consumer-electronics/apple/77738
+2024-09-29,Samsung Electronics outperforms in consumer electronics market,Protocol,positive,0.253,https://example.com/consumer-electronics/samsung-electronics/82446
+2024-09-21,Apple accelerates in consumer electronics market,The Information,positive,0.895,https://example.com/consumer-electronics/apple/85865
+2024-09-19,Apple notes in consumer electronics market,TechCrunch,neutral,-0.031,https://example.com/consumer-electronics/apple/7383
+2024-09-17,Samsung Electronics introduces in consumer electronics market,The Information,neutral,-0.108,https://example.com/consumer-electronics/samsung-electronics/21833
+2024-09-15,Apple reports in consumer electronics market,Wall Street Journal,neutral,0.119,https://example.com/consumer-electronics/apple/43033
+2024-09-12,LG Electronics faces probe in consumer electronics market,Wall Street Journal,negative,-0.503,https://example.com/consumer-electronics/lg-electronics/60037
+2024-09-11,LG Electronics reports in consumer electronics market,The Information,neutral,-0.153,https://example.com/consumer-electronics/lg-electronics/16576
+2024-08-31,Xiaomi tops in consumer electronics market,Protocol,positive,0.622,https://example.com/consumer-electronics/xiaomi/94281
+2024-08-29,Apple accelerates in consumer electronics market,VentureBeat,positive,0.628,https://example.com/consumer-electronics/apple/85865
+2024-08-24,Xiaomi outperforms in consumer electronics market,CNBC,positive,0.378,https://example.com/consumer-electronics/xiaomi/91190
+2024-08-11,Xiaomi faces probe in consumer electronics market,The Information,negative,-0.937,https://example.com/consumer-electronics/xiaomi/69395
+2024-07-30,LG Electronics notes in consumer electronics market,The Information,neutral,0.124,https://example.com/consumer-electronics/lg-electronics/55888
+2024-07-24,Sony outperforms in consumer electronics market,Financial Times,positive,0.794,https://example.com/consumer-electronics/sony/98559
+2024-07-20,Sony reveals in consumer electronics market,Engadget,neutral,0.019,https://example.com/consumer-electronics/sony/56578
+2024-07-15,Apple accelerates in consumer electronics market,Wired,positive,0.542,https://example.com/consumer-electronics/apple/85865
+2024-07-13,Xiaomi partners with in consumer electronics market,VentureBeat,positive,0.497,https://example.com/consumer-electronics/xiaomi/85872
+2024-07-08,LG Electronics states in consumer electronics market,Protocol,neutral,0.042,https://example.com/consumer-electronics/lg-electronics/38509
+2024-07-07,Xiaomi notes in consumer electronics market,Ars Technica,neutral,-0.170,https://example.com/consumer-electronics/xiaomi/40847
+2024-07-07,Sony reveals in consumer electronics market,Protocol,neutral,0.037,https://example.com/consumer-electronics/sony/56578
+2024-06-15,Samsung Electronics accelerates in consumer electronics market,The Information,positive,0.214,https://example.com/consumer-electronics/samsung-electronics/72348
+2024-06-10,Apple files in consumer electronics market,Forbes,neutral,-0.117,https://example.com/consumer-electronics/apple/85337
+2024-06-05,LG Electronics downgrades in consumer electronics market,Bloomberg,negative,-0.465,https://example.com/consumer-electronics/lg-electronics/18119
+2024-06-04,LG Electronics wins in consumer electronics market,Engadget,positive,0.390,https://example.com/consumer-electronics/lg-electronics/63580
+2024-05-31,LG Electronics reveals in consumer electronics market,Financial Times,neutral,0.129,https://example.com/consumer-electronics/lg-electronics/48949
+2024-05-30,Xiaomi files in consumer electronics market,Financial Times,neutral,0.138,https://example.com/consumer-electronics/xiaomi/60326
+2024-05-23,LG Electronics downgrades in consumer electronics market,The Information,negative,-0.597,https://example.com/consumer-electronics/lg-electronics/18119
+2024-05-23,Xiaomi accelerates in consumer electronics market,Protocol,positive,0.813,https://example.com/consumer-electronics/xiaomi/19644
+2024-05-21,LG Electronics partners with in consumer electronics market,CNBC,positive,0.739,https://example.com/consumer-electronics/lg-electronics/83051
+2024-05-14,Xiaomi recalls in consumer electronics market,Wired,negative,-0.795,https://example.com/consumer-electronics/xiaomi/96042
+2024-05-10,LG Electronics partners with in consumer electronics market,Ars Technica,positive,0.547,https://example.com/consumer-electronics/lg-electronics/83051
+2024-04-27,Xiaomi recalls in consumer electronics market,Ars Technica,negative,-0.868,https://example.com/consumer-electronics/xiaomi/96042
+2024-04-27,Apple partners with in consumer electronics market,The Verge,positive,0.911,https://example.com/consumer-electronics/apple/55026
+2024-04-25,Xiaomi warns in consumer electronics market,Engadget,negative,-0.719,https://example.com/consumer-electronics/xiaomi/73910
+2024-04-24,Apple cuts in consumer electronics market,The Verge,negative,-0.990,https://example.com/consumer-electronics/apple/52487
+2024-04-15,Apple launches in consumer electronics market,Engadget,neutral,-0.017,https://example.com/consumer-electronics/apple/56480

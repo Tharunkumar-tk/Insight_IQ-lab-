@@ -1,0 +1,101 @@
+date,headline,source,sentiment,sentiment_score,link
+2025-10-06,UiPath mentions in robotics market,The Verge,neutral,-0.150,https://example.com/robotics/uipath/85253
+2025-10-05,iRobot launches in robotics market,The Information,neutral,0.002,https://example.com/robotics/irobot/58586
+2025-09-30,Boston Dynamics cuts in robotics market,The Information,negative,-0.846,https://example.com/robotics/boston-dynamics/67477
+2025-09-27,Boston Dynamics announces in robotics market,TechCrunch,positive,0.861,https://example.com/robotics/boston-dynamics/27982
+2025-09-24,Boston Dynamics reports in robotics market,The Verge,neutral,-0.061,https://example.com/robotics/boston-dynamics/82707
+2025-09-07,UiPath announces in robotics market,VentureBeat,positive,0.889,https://example.com/robotics/uipath/67703
+2025-09-04,iRobot falls in robotics market,Wall Street Journal,negative,-0.574,https://example.com/robotics/irobot/95386
+2025-08-26,ABB Robotics updates in robotics market,Wired,neutral,-0.084,https://example.com/robotics/abb-robotics/79593
+2025-08-14,Fanuc announces in robotics market,Ars Technica,positive,0.712,https://example.com/robotics/fanuc/6159
+2025-08-13,iRobot mentions in robotics market,Financial Times,neutral,0.091,https://example.com/robotics/irobot/21156
+2025-08-09,ABB Robotics partners with in robotics market,VentureBeat,positive,0.469,https://example.com/robotics/abb-robotics/91113
+2025-08-07,Boston Dynamics introduces in robotics market,TechCrunch,neutral,-0.002,https://example.com/robotics/boston-dynamics/89765
+2025-07-21,iRobot reveals in robotics market,TechCrunch,neutral,0.173,https://example.com/robotics/irobot/97554
+2025-07-20,Fanuc partners with in robotics market,Engadget,positive,0.921,https://example.com/robotics/fanuc/1732
+2025-07-14,UiPath mentions in robotics market,TechCrunch,neutral,0.185,https://example.com/robotics/uipath/85253
+2025-07-07,UiPath launches in robotics market,TechCrunch,neutral,0.172,https://example.com/robotics/uipath/20633
+2025-07-03,Boston Dynamics expands in robotics market,Engadget,positive,0.730,https://example.com/robotics/boston-dynamics/53257
+2025-06-26,iRobot outperforms in robotics market,CNBC,positive,0.817,https://example.com/robotics/irobot/72000
+2025-06-19,iRobot announces in robotics market,The Information,positive,0.820,https://example.com/robotics/irobot/71963
+2025-06-14,iRobot partners with in robotics market,CNBC,positive,0.739,https://example.com/robotics/irobot/70660
+2025-06-05,UiPath notes in robotics market,Engadget,neutral,-0.199,https://example.com/robotics/uipath/19273
+2025-06-04,Fanuc files in robotics market,CNBC,neutral,-0.135,https://example.com/robotics/fanuc/22522
+2025-06-04,iRobot states in robotics market,VentureBeat,neutral,0.057,https://example.com/robotics/irobot/77470
+2025-05-09,ABB Robotics falls in robotics market,Engadget,negative,-0.351,https://example.com/robotics/abb-robotics/26556
+2025-05-08,UiPath cuts in robotics market,VentureBeat,negative,-0.896,https://example.com/robotics/uipath/13592
+2025-05-03,iRobot reports in robotics market,Reuters,neutral,0.143,https://example.com/robotics/irobot/6533
+2025-05-01,iRobot files in robotics market,Wired,neutral,0.187,https://example.com/robotics/irobot/80123
+2025-04-21,Fanuc misses in robotics market,The Information,negative,-0.929,https://example.com/robotics/fanuc/77164
+2025-04-16,Fanuc announces in robotics market,The Verge,positive,0.982,https://example.com/robotics/fanuc/6159
+2025-04-13,ABB Robotics partners with in robotics market,Bloomberg,positive,0.845,https://example.com/robotics/abb-robotics/91113
+2025-04-08,UiPath introduces in robotics market,Bloomberg,neutral,-0.154,https://example.com/robotics/uipath/95907
+2025-04-07,iRobot surges in robotics market,Ars Technica,positive,0.380,https://example.com/robotics/irobot/52239
+2025-04-05,iRobot notes in robotics market,Engadget,neutral,-0.011,https://example.com/robotics/irobot/31042
+2025-03-25,UiPath outperforms in robotics market,Forbes,positive,0.656,https://example.com/robotics/uipath/56480
+2025-03-24,Fanuc expands in robotics market,Forbes,positive,0.974,https://example.com/robotics/fanuc/66549
+2025-03-22,Boston Dynamics falls in robotics market,Forbes,negative,-0.737,https://example.com/robotics/boston-dynamics/18061
+2025-03-19,Fanuc accelerates in robotics market,The Verge,positive,0.973,https://example.com/robotics/fanuc/84893
+2025-02-24,ABB Robotics recalls in robotics market,Wall Street Journal,negative,-0.865,https://example.com/robotics/abb-robotics/12768
+2025-02-24,Boston Dynamics suffers in robotics market,CNBC,negative,-0.682,https://example.com/robotics/boston-dynamics/97547
+2025-02-22,Fanuc warns in robotics market,Ars Technica,negative,-0.344,https://example.com/robotics/fanuc/96054
+2025-02-18,Fanuc partners with in robotics market,VentureBeat,positive,0.510,https://example.com/robotics/fanuc/1732
+2025-02-17,iRobot states in robotics market,VentureBeat,neutral,0.007,https://example.com/robotics/irobot/77470
+2025-02-09,UiPath expands in robotics market,The Verge,positive,0.503,https://example.com/robotics/uipath/4260
+2025-02-06,UiPath outperforms in robotics market,Forbes,positive,0.329,https://example.com/robotics/uipath/56480
+2025-01-29,Fanuc faces probe in robotics market,Engadget,negative,-0.232,https://example.com/robotics/fanuc/28807
+2025-01-18,iRobot wins in robotics market,Engadget,positive,0.917,https://example.com/robotics/irobot/47057
+2025-01-16,Fanuc reports in robotics market,CNBC,neutral,-0.008,https://example.com/robotics/fanuc/26472
+2025-01-14,ABB Robotics recalls in robotics market,Forbes,negative,-0.425,https://example.com/robotics/abb-robotics/12768
+2025-01-12,iRobot delays in robotics market,Engadget,negative,-0.514,https://example.com/robotics/irobot/76123
+2025-01-06,ABB Robotics mentions in robotics market,Wired,neutral,-0.188,https://example.com/robotics/abb-robotics/71378
+2024-12-22,Boston Dynamics cuts in robotics market,Bloomberg,negative,-0.210,https://example.com/robotics/boston-dynamics/67477
+2024-12-18,ABB Robotics mentions in robotics market,Wall Street Journal,neutral,0.138,https://example.com/robotics/abb-robotics/71378
+2024-12-12,ABB Robotics recalls in robotics market,The Information,negative,-0.371,https://example.com/robotics/abb-robotics/12768
+2024-12-01,Boston Dynamics beats in robotics market,Forbes,positive,0.885,https://example.com/robotics/boston-dynamics/95529
+2024-12-01,iRobot announces in robotics market,Protocol,positive,0.331,https://example.com/robotics/irobot/71963
+2024-11-21,iRobot notes in robotics market,Wired,neutral,0.037,https://example.com/robotics/irobot/31042
+2024-11-21,Boston Dynamics warns in robotics market,CNBC,negative,-0.855,https://example.com/robotics/boston-dynamics/7554
+2024-11-20,UiPath reports in robotics market,Reuters,neutral,0.034,https://example.com/robotics/uipath/65118
+2024-11-13,Boston Dynamics partners with in robotics market,TechCrunch,positive,0.586,https://example.com/robotics/boston-dynamics/41817
+2024-11-08,ABB Robotics outperforms in robotics market,Reuters,positive,0.340,https://example.com/robotics/abb-robotics/76562
+2024-10-25,iRobot announces in robotics market,The Verge,positive,0.571,https://example.com/robotics/irobot/71963
+2024-10-25,iRobot partners with in robotics market,Ars Technica,positive,0.662,https://example.com/robotics/irobot/70660
+2024-10-04,Boston Dynamics files in robotics market,Wall Street Journal,neutral,0.064,https://example.com/robotics/boston-dynamics/39901
+2024-10-03,UiPath misses in robotics market,Ars Technica,negative,-0.978,https://example.com/robotics/uipath/2822
+2024-10-01,Boston Dynamics accelerates in robotics market,Forbes,positive,0.387,https://example.com/robotics/boston-dynamics/42028
+2024-09-30,iRobot warns in robotics market,Forbes,negative,-0.685,https://example.com/robotics/irobot/43845
+2024-09-30,Fanuc misses in robotics market,Ars Technica,negative,-0.972,https://example.com/robotics/fanuc/77164
+2024-09-26,ABB Robotics updates in robotics market,Forbes,neutral,-0.010,https://example.com/robotics/abb-robotics/79593
+2024-09-24,Boston Dynamics warns in robotics market,The Verge,negative,-0.216,https://example.com/robotics/boston-dynamics/7554
+2024-09-16,iRobot introduces in robotics market,TechCrunch,neutral,-0.023,https://example.com/robotics/irobot/61087
+2024-09-13,Fanuc wins in robotics market,Wired,positive,0.413,https://example.com/robotics/fanuc/56640
+2024-09-12,UiPath misses in robotics market,Forbes,negative,-0.313,https://example.com/robotics/uipath/2822
+2024-09-11,Fanuc cuts in robotics market,The Verge,negative,-0.823,https://example.com/robotics/fanuc/658
+2024-09-05,ABB Robotics reveals in robotics market,CNBC,neutral,0.153,https://example.com/robotics/abb-robotics/56506
+2024-08-31,Fanuc wins in robotics market,Engadget,positive,0.670,https://example.com/robotics/fanuc/56640
+2024-08-22,iRobot reveals in robotics market,Reuters,neutral,-0.094,https://example.com/robotics/irobot/97554
+2024-08-22,iRobot reports in robotics market,Engadget,neutral,0.113,https://example.com/robotics/irobot/6533
+2024-08-17,Boston Dynamics warns in robotics market,Forbes,negative,-0.252,https://example.com/robotics/boston-dynamics/7554
+2024-08-16,UiPath suffers in robotics market,The Verge,negative,-0.547,https://example.com/robotics/uipath/93343
+2024-08-10,ABB Robotics surges in robotics market,CNBC,positive,0.976,https://example.com/robotics/abb-robotics/12326
+2024-08-07,ABB Robotics outperforms in robotics market,Wired,positive,0.273,https://example.com/robotics/abb-robotics/76562
+2024-08-07,ABB Robotics reveals in robotics market,The Verge,neutral,-0.134,https://example.com/robotics/abb-robotics/56506
+2024-07-27,Fanuc announces in robotics market,Reuters,positive,0.585,https://example.com/robotics/fanuc/6159
+2024-07-25,UiPath delays in robotics market,Forbes,negative,-0.405,https://example.com/robotics/uipath/32160
+2024-07-15,Fanuc outperforms in robotics market,Ars Technica,positive,0.749,https://example.com/robotics/fanuc/42010
+2024-07-09,Fanuc beats in robotics market,Protocol,positive,0.292,https://example.com/robotics/fanuc/67527
+2024-07-08,ABB Robotics launches in robotics market,Forbes,neutral,-0.029,https://example.com/robotics/abb-robotics/64012
+2024-06-29,UiPath reveals in robotics market,CNBC,neutral,-0.111,https://example.com/robotics/uipath/74248
+2024-06-28,Fanuc surges in robotics market,Engadget,positive,0.719,https://example.com/robotics/fanuc/15770
+2024-06-13,Fanuc warns in robotics market,Protocol,negative,-0.375,https://example.com/robotics/fanuc/96054
+2024-06-09,Fanuc expands in robotics market,Forbes,positive,0.328,https://example.com/robotics/fanuc/66549
+2024-05-31,Boston Dynamics warns in robotics market,VentureBeat,negative,-0.283,https://example.com/robotics/boston-dynamics/7554
+2024-05-27,Fanuc surges in robotics market,The Information,positive,0.346,https://example.com/robotics/fanuc/15770
+2024-05-17,ABB Robotics warns in robotics market,Protocol,negative,-0.602,https://example.com/robotics/abb-robotics/38328
+2024-05-16,Boston Dynamics tops in robotics market,Engadget,positive,0.228,https://example.com/robotics/boston-dynamics/67253
+2024-05-15,ABB Robotics announces in robotics market,Ars Technica,positive,0.581,https://example.com/robotics/abb-robotics/87342
+2024-05-14,ABB Robotics launches in robotics market,The Information,neutral,-0.161,https://example.com/robotics/abb-robotics/64012
+2024-05-13,Boston Dynamics introduces in robotics market,VentureBeat,neutral,-0.013,https://example.com/robotics/boston-dynamics/89765
+2024-05-07,Fanuc warns in robotics market,Reuters,negative,-0.703,https://example.com/robotics/fanuc/96054
+2024-04-30,ABB Robotics notes in robotics market,Wall Street Journal,neutral,0.186,https://example.com/robotics/abb-robotics/42178

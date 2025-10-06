@@ -1,0 +1,101 @@
+date,headline,source,sentiment,sentiment_score,link
+2025-09-30,Fortinet recalls in cybersecurity market,Reuters,negative,-0.605,https://example.com/cybersecurity/fortinet/77004
+2025-09-27,CrowdStrike warns in cybersecurity market,The Verge,negative,-0.852,https://example.com/cybersecurity/crowdstrike/67297
+2025-09-26,Fortinet outperforms in cybersecurity market,Reuters,positive,0.287,https://example.com/cybersecurity/fortinet/93003
+2025-09-25,Palo Alto Networks updates in cybersecurity market,Financial Times,neutral,-0.154,https://example.com/cybersecurity/palo-alto-networks/42153
+2025-09-23,Fortinet announces in cybersecurity market,Protocol,positive,0.997,https://example.com/cybersecurity/fortinet/94598
+2025-09-18,CrowdStrike outperforms in cybersecurity market,Forbes,positive,0.261,https://example.com/cybersecurity/crowdstrike/60190
+2025-09-16,Check Point notes in cybersecurity market,Wall Street Journal,neutral,-0.012,https://example.com/cybersecurity/check-point/31201
+2025-09-10,CrowdStrike introduces in cybersecurity market,VentureBeat,neutral,0.194,https://example.com/cybersecurity/crowdstrike/73200
+2025-09-08,CrowdStrike states in cybersecurity market,Ars Technica,neutral,-0.100,https://example.com/cybersecurity/crowdstrike/28202
+2025-09-03,Palo Alto Networks tops in cybersecurity market,Wall Street Journal,positive,0.486,https://example.com/cybersecurity/palo-alto-networks/22324
+2025-08-18,CrowdStrike suffers in cybersecurity market,Forbes,negative,-0.981,https://example.com/cybersecurity/crowdstrike/2373
+2025-08-08,Palo Alto Networks expands in cybersecurity market,The Information,positive,0.285,https://example.com/cybersecurity/palo-alto-networks/65535
+2025-08-07,Palo Alto Networks surges in cybersecurity market,Engadget,positive,0.934,https://example.com/cybersecurity/palo-alto-networks/52631
+2025-08-05,CrowdStrike updates in cybersecurity market,Protocol,neutral,-0.013,https://example.com/cybersecurity/crowdstrike/35261
+2025-07-27,Fortinet expands in cybersecurity market,The Verge,positive,0.218,https://example.com/cybersecurity/fortinet/18273
+2025-07-26,Check Point mentions in cybersecurity market,Bloomberg,neutral,-0.193,https://example.com/cybersecurity/check-point/11390
+2025-07-25,Palo Alto Networks announces in cybersecurity market,VentureBeat,positive,0.564,https://example.com/cybersecurity/palo-alto-networks/62584
+2025-07-19,Cloudflare announces in cybersecurity market,Wall Street Journal,positive,0.475,https://example.com/cybersecurity/cloudflare/14926
+2025-07-16,Palo Alto Networks notes in cybersecurity market,Ars Technica,neutral,-0.054,https://example.com/cybersecurity/palo-alto-networks/20038
+2025-07-10,Cloudflare wins in cybersecurity market,Engadget,positive,0.961,https://example.com/cybersecurity/cloudflare/46498
+2025-07-07,Fortinet mentions in cybersecurity market,Engadget,neutral,0.016,https://example.com/cybersecurity/fortinet/47648
+2025-07-01,Check Point launches in cybersecurity market,Reuters,neutral,-0.079,https://example.com/cybersecurity/check-point/56044
+2025-07-01,Fortinet partners with in cybersecurity market,Reuters,positive,0.604,https://example.com/cybersecurity/fortinet/23470
+2025-06-29,Cloudflare falls in cybersecurity market,VentureBeat,negative,-0.869,https://example.com/cybersecurity/cloudflare/97379
+2025-06-28,Palo Alto Networks falls in cybersecurity market,Protocol,negative,-0.555,https://example.com/cybersecurity/palo-alto-networks/6498
+2025-06-19,Cloudflare expands in cybersecurity market,CNBC,positive,0.584,https://example.com/cybersecurity/cloudflare/77484
+2025-06-18,Check Point mentions in cybersecurity market,Reuters,neutral,-0.032,https://example.com/cybersecurity/check-point/11390
+2025-06-16,Cloudflare introduces in cybersecurity market,Financial Times,neutral,0.052,https://example.com/cybersecurity/cloudflare/57766
+2025-06-13,Fortinet delays in cybersecurity market,Wall Street Journal,negative,-0.250,https://example.com/cybersecurity/fortinet/99454
+2025-06-09,Fortinet mentions in cybersecurity market,The Information,neutral,-0.074,https://example.com/cybersecurity/fortinet/47648
+2025-06-08,Check Point notes in cybersecurity market,Financial Times,neutral,0.097,https://example.com/cybersecurity/check-point/31201
+2025-06-07,Cloudflare introduces in cybersecurity market,TechCrunch,neutral,-0.075,https://example.com/cybersecurity/cloudflare/57766
+2025-05-29,Palo Alto Networks reports in cybersecurity market,Protocol,neutral,0.018,https://example.com/cybersecurity/palo-alto-networks/484
+2025-05-29,Palo Alto Networks falls in cybersecurity market,Protocol,negative,-0.484,https://example.com/cybersecurity/palo-alto-networks/6498
+2025-05-17,Fortinet wins in cybersecurity market,Ars Technica,positive,0.750,https://example.com/cybersecurity/fortinet/30633
+2025-05-15,Fortinet outperforms in cybersecurity market,Ars Technica,positive,0.894,https://example.com/cybersecurity/fortinet/93003
+2025-05-11,Fortinet partners with in cybersecurity market,Protocol,positive,0.679,https://example.com/cybersecurity/fortinet/23470
+2025-05-05,Check Point updates in cybersecurity market,Bloomberg,neutral,-0.142,https://example.com/cybersecurity/check-point/76930
+2025-05-01,Palo Alto Networks accelerates in cybersecurity market,Financial Times,positive,0.256,https://example.com/cybersecurity/palo-alto-networks/28165
+2025-04-25,Fortinet downgrades in cybersecurity market,Engadget,negative,-0.334,https://example.com/cybersecurity/fortinet/41277
+2025-04-24,CrowdStrike partners with in cybersecurity market,Bloomberg,positive,0.296,https://example.com/cybersecurity/crowdstrike/15304
+2025-04-22,Cloudflare beats in cybersecurity market,The Verge,positive,0.927,https://example.com/cybersecurity/cloudflare/8946
+2025-04-22,Cloudflare files in cybersecurity market,Financial Times,neutral,0.168,https://example.com/cybersecurity/cloudflare/49226
+2025-04-18,Fortinet mentions in cybersecurity market,The Information,neutral,-0.118,https://example.com/cybersecurity/fortinet/47648
+2025-04-04,Palo Alto Networks notes in cybersecurity market,Ars Technica,neutral,0.186,https://example.com/cybersecurity/palo-alto-networks/20038
+2025-03-30,CrowdStrike introduces in cybersecurity market,Ars Technica,neutral,-0.073,https://example.com/cybersecurity/crowdstrike/73200
+2025-03-27,Cloudflare reports in cybersecurity market,Forbes,neutral,0.103,https://example.com/cybersecurity/cloudflare/74827
+2025-03-22,Cloudflare expands in cybersecurity market,Engadget,positive,0.393,https://example.com/cybersecurity/cloudflare/77484
+2025-03-21,Fortinet beats in cybersecurity market,The Verge,positive,0.690,https://example.com/cybersecurity/fortinet/71120
+2025-03-10,Check Point announces in cybersecurity market,VentureBeat,positive,0.986,https://example.com/cybersecurity/check-point/448
+2025-02-26,Fortinet accelerates in cybersecurity market,Reuters,positive,0.268,https://example.com/cybersecurity/fortinet/89826
+2025-02-23,Check Point beats in cybersecurity market,Financial Times,positive,0.342,https://example.com/cybersecurity/check-point/68240
+2025-02-14,Check Point files in cybersecurity market,TechCrunch,neutral,-0.004,https://example.com/cybersecurity/check-point/92474
+2025-02-10,Check Point faces probe in cybersecurity market,Forbes,negative,-0.585,https://example.com/cybersecurity/check-point/9270
+2025-02-03,Check Point states in cybersecurity market,Bloomberg,neutral,-0.123,https://example.com/cybersecurity/check-point/35811
+2025-02-01,Check Point introduces in cybersecurity market,Wall Street Journal,neutral,-0.016,https://example.com/cybersecurity/check-point/15510
+2025-01-31,Cloudflare expands in cybersecurity market,Reuters,positive,0.361,https://example.com/cybersecurity/cloudflare/77484
+2025-01-26,Check Point delays in cybersecurity market,Protocol,negative,-0.575,https://example.com/cybersecurity/check-point/89543
+2025-01-21,Check Point expands in cybersecurity market,Bloomberg,positive,0.261,https://example.com/cybersecurity/check-point/80304
+2025-01-18,Palo Alto Networks reveals in cybersecurity market,Ars Technica,neutral,0.176,https://example.com/cybersecurity/palo-alto-networks/29898
+2025-01-16,CrowdStrike tops in cybersecurity market,The Information,positive,0.611,https://example.com/cybersecurity/crowdstrike/52515
+2025-01-15,Palo Alto Networks tops in cybersecurity market,Wired,positive,0.723,https://example.com/cybersecurity/palo-alto-networks/22324
+2025-01-14,Fortinet introduces in cybersecurity market,Financial Times,neutral,-0.011,https://example.com/cybersecurity/fortinet/78264
+2025-01-14,CrowdStrike expands in cybersecurity market,Engadget,positive,0.738,https://example.com/cybersecurity/crowdstrike/74225
+2025-01-04,Check Point expands in cybersecurity market,Financial Times,positive,0.469,https://example.com/cybersecurity/check-point/80304
+2025-01-03,Cloudflare partners with in cybersecurity market,Bloomberg,positive,0.305,https://example.com/cybersecurity/cloudflare/52885
+2024-12-14,Check Point mentions in cybersecurity market,The Information,neutral,0.194,https://example.com/cybersecurity/check-point/11390
+2024-12-08,Fortinet launches in cybersecurity market,The Verge,neutral,0.193,https://example.com/cybersecurity/fortinet/36679
+2024-11-27,Check Point announces in cybersecurity market,Wired,positive,0.517,https://example.com/cybersecurity/check-point/448
+2024-11-20,Palo Alto Networks introduces in cybersecurity market,Wired,neutral,0.107,https://example.com/cybersecurity/palo-alto-networks/12600
+2024-11-11,Cloudflare mentions in cybersecurity market,Ars Technica,neutral,-0.020,https://example.com/cybersecurity/cloudflare/32581
+2024-11-10,Palo Alto Networks reveals in cybersecurity market,Protocol,neutral,0.090,https://example.com/cybersecurity/palo-alto-networks/29898
+2024-11-08,CrowdStrike cuts in cybersecurity market,Wall Street Journal,negative,-0.258,https://example.com/cybersecurity/crowdstrike/69363
+2024-10-20,Cloudflare mentions in cybersecurity market,The Information,neutral,0.124,https://example.com/cybersecurity/cloudflare/32581
+2024-10-15,Cloudflare accelerates in cybersecurity market,Engadget,positive,0.578,https://example.com/cybersecurity/cloudflare/90650
+2024-10-10,Cloudflare outperforms in cybersecurity market,Wired,positive,0.815,https://example.com/cybersecurity/cloudflare/13718
+2024-10-09,Fortinet tops in cybersecurity market,Engadget,positive,0.565,https://example.com/cybersecurity/fortinet/80993
+2024-09-15,Fortinet faces probe in cybersecurity market,Ars Technica,negative,-0.966,https://example.com/cybersecurity/fortinet/94427
+2024-09-06,Check Point launches in cybersecurity market,The Information,neutral,-0.108,https://example.com/cybersecurity/check-point/56044
+2024-09-03,CrowdStrike mentions in cybersecurity market,TechCrunch,neutral,0.134,https://example.com/cybersecurity/crowdstrike/21552
+2024-08-19,CrowdStrike notes in cybersecurity market,The Verge,neutral,-0.098,https://example.com/cybersecurity/crowdstrike/20572
+2024-07-27,Cloudflare partners with in cybersecurity market,Financial Times,positive,0.346,https://example.com/cybersecurity/cloudflare/52885
+2024-07-25,Check Point introduces in cybersecurity market,TechCrunch,neutral,0.059,https://example.com/cybersecurity/check-point/15510
+2024-07-22,Fortinet states in cybersecurity market,VentureBeat,neutral,-0.181,https://example.com/cybersecurity/fortinet/16650
+2024-07-12,CrowdStrike expands in cybersecurity market,The Verge,positive,0.507,https://example.com/cybersecurity/crowdstrike/74225
+2024-07-10,Cloudflare notes in cybersecurity market,Reuters,neutral,0.006,https://example.com/cybersecurity/cloudflare/38075
+2024-07-10,Check Point updates in cybersecurity market,Engadget,neutral,-0.129,https://example.com/cybersecurity/check-point/76930
+2024-07-02,Cloudflare reveals in cybersecurity market,The Verge,neutral,0.022,https://example.com/cybersecurity/cloudflare/55566
+2024-06-29,Palo Alto Networks mentions in cybersecurity market,Bloomberg,neutral,-0.158,https://example.com/cybersecurity/palo-alto-networks/6620
+2024-06-18,Cloudflare updates in cybersecurity market,Wired,neutral,0.065,https://example.com/cybersecurity/cloudflare/21677
+2024-06-10,Palo Alto Networks partners with in cybersecurity market,Ars Technica,positive,0.384,https://example.com/cybersecurity/palo-alto-networks/95302
+2024-06-09,CrowdStrike files in cybersecurity market,The Information,neutral,-0.190,https://example.com/cybersecurity/crowdstrike/41564
+2024-06-05,Palo Alto Networks accelerates in cybersecurity market,Financial Times,positive,0.749,https://example.com/cybersecurity/palo-alto-networks/28165
+2024-05-31,Fortinet announces in cybersecurity market,Engadget,positive,0.765,https://example.com/cybersecurity/fortinet/94598
+2024-05-28,Fortinet warns in cybersecurity market,Forbes,negative,-0.363,https://example.com/cybersecurity/fortinet/98354
+2024-05-21,Palo Alto Networks partners with in cybersecurity market,The Verge,positive,0.991,https://example.com/cybersecurity/palo-alto-networks/95302
+2024-05-21,Palo Alto Networks accelerates in cybersecurity market,VentureBeat,positive,0.291,https://example.com/cybersecurity/palo-alto-networks/28165
+2024-05-19,Check Point accelerates in cybersecurity market,VentureBeat,positive,0.882,https://example.com/cybersecurity/check-point/97271
+2024-05-15,Cloudflare reports in cybersecurity market,The Verge,neutral,-0.039,https://example.com/cybersecurity/cloudflare/74827
+2024-05-02,CrowdStrike delays in cybersecurity market,Financial Times,negative,-0.753,https://example.com/cybersecurity/crowdstrike/36460

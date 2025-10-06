@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "backend\app.py", line 5, in <module>
+    from fastapi import FastAPI, Query, Request
+ModuleNotFoundError: No module named 'fastapi'
